@@ -34,4 +34,4 @@ jobs:
           git config user.email "actions@users.noreply.github.com"
           git add data
           git commit -m "collect: ${{ github.event.inputs.what || 'all' }} $(date -u +%F)" || echo "nothing new"
-          git push
+          for i in 1 2 3; do git pull --rebase -X ours origin main && git push && break; sleep 5; done
