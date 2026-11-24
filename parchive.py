@@ -45,7 +45,18 @@ def parse(html, pid):
             'url': f'https://publishersarchive.com/publisher/{pid}'}
 
 
+def debug(pid):
+    r = S.get(f'https://publishersarchive.com/publisher/{pid}', timeout=30)
+    soup = BeautifulSoup(r.text, 'html.parser')
+    print('status', r.status_code, 'final', r.url, 'bytes', len(r.text))
+    print('title', soup.title.string if soup.title else None)
+    print('headings', [(h.name, h.get_text(' ', strip=True)[:60]) for h in soup.find_all(['h1', 'h2', 'h3'])][:15])
+    print(r.text[:1500])
+
+
 def main():
+    if sys.argv[1] == 'debug':
+        debug(int(sys.argv[2])); return
     start, end = int(sys.argv[1]), int(sys.argv[2])
     budget = float(sys.argv[3]) * 60 if len(sys.argv) > 3 else 1e9
     os.makedirs(os.path.dirname(PATH), exist_ok=True)
