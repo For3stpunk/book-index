@@ -28,14 +28,14 @@ Two scheduled tasks drive this. Each starts a fresh session, so everything it ne
    - Run the loops in the background inside the page (store progress on `window`), poll with short calls, save the result to IndexedDB `bookfinder`/`kv`, then send it through the relay: open the relay artifact, press "Open Edelweiss sender", and from that new tab `postMessage({type:'bfchunk', name, text})` to `window.opener`, waiting for each `bfack`. Read the assets back with read_asset.
    - The site is flaky: 503s on first load, and a reload fixes broken page scripts. The extension's output filter blocks strings with `= & ?`, so replace those characters in anything you return.
 4. **Covers.** Press "Open cover sender" in the relay (it opens an images-azf.edelweiss.plus tab). Ask the relay for the list (`bflist`, served from `covlist.json`, which you publish to the relay first: one `PUB|file.jpg` per book with a cover, in books.json order). Draw 100 covers per 1200×1800 JPEG sheet (10×10 cells of 120×180) and send each as `bfchunk` with a `blob`. Keep the relay tab in front: in a background tab its uploads stall. Then `copy_asset` the sheets into each page that needs them, and pass a sprite map (`{"sheets":[["/_blob/<id>",rows]|null,…],"miss":{}}`) to variant.py.
-5. **Book Riot and Amazon (Chrome).** Book Riot's New Release Index needs the user's All Access sign-in; Amazon "Hot New Releases" needs a normal browser. If either is unreachable, say so in the summary and carry on.
+5. **Book Riot** comes from the cloud collector (`collect.py bookriot`: public posts found through the WordPress API, cumulative in `data/bookriot/mentions.json`, matched by ISBN or title + author; each match links to the posts). The user has no All Access membership, so skip the New Release Index. **Amazon** "Hot New Releases" needs a normal browser (Chrome); if unreachable, say so in the summary and carry on.
 6. **Build.** In `site/`: put the Edelweiss pull in `raw.json` and the Daily Roundup book items in `feed_items.json`; run `START=YYYY-MM-01 END=YYYY-MM-31 python3 build.py`, then `python3 merge.py ..`, then `MERGED=books_merged.json python3 variant.py <name> …`. Test the page locally with Playwright before publishing.
 7. **Publish** the month page (new artifact for a new month) and update the main finder. Send the user a short summary: counts by source, anything that failed, links.
 
 ## Weekly sweep
 
 1. Steps 1–2 above with `what=all`.
-2. If Chrome is available: Book Riot and Amazon (step 5).
+2. If Chrome is available: Amazon (step 5). Book Riot is already in the cloud collection.
 3. Merge into the current and next month's masters (step 6) and republish them.
 4. Publish a page for the coming week (Monday–Sunday), named "New Book Releases — Week of <Tuesday's date>", with the covers it needs.
 5. Summary to the user: what was new this week, by source.
