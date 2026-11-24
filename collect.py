@@ -115,6 +115,33 @@ def link_books(soup, base):
     return out
 
 
+def card_books(soup, base):
+    """ISBNs anywhere in tags (href, src, data-*) or text; title from the surrounding product card."""
+    out, seen = [], set()
+    for el in soup.find_all(True):
+        hay = ' '.join(str(v) for v in el.attrs.values()) + (' ' + el.string if el.string else '')
+        for m in ISBN13.finditer(hay):
+            isbn = norm_isbn(m.group(1))
+            if not isbn or isbn in seen:
+                continue
+            seen.add(isbn)
+            card = el
+            for _ in range(6):
+                if card.parent is None:
+                    break
+                t = card.get_text(' ', strip=True)
+                if len(t) >= 12 and (card.find(['h2', 'h3', 'h4', 'h5', 'strong']) or card.name in ('li', 'article')):
+                    break
+                card = card.parent
+            head = card.find(['h2', 'h3', 'h4', 'h5', 'strong'])
+            img = card.find('img')
+            title = (head.get_text(' ', strip=True) if head else '') or (img.get('alt', '') if img else '') or card.get_text(' ', strip=True)[:120]
+            a = card.find('a', href=True)
+            out.append({'title': title[:200], 'author': '', 'isbn': isbn, 'date': date_near(card.get_text(' ', strip=True)),
+                        'url': urljoin(base, a['href']) if a else base})
+    return out
+
+
 def date_near(text):
     m = re.search(r'(January|February|March|April|May|June|July|August|September|October|November|December)\s+\d{1,2},\s+20\d\d', text)
     if m:
@@ -283,7 +310,7 @@ def site_books(url, follow=2):
     while url and pages <= follow:
         r = get(url)
         soup = BeautifulSoup(r.text, 'html.parser')
-        books = jsonld_books(soup, r.url) or link_books(soup, r.url)
+        books = jsonld_books(soup, r.url) or link_books(soup, r.url) or card_books(soup, r.url)
         for b in books:
             if not b['date']:
                 a = next((x for x in soup.find_all('a', href=True) if b['isbn'] and b['isbn'] in x['href']), None)
@@ -293,6 +320,8 @@ def site_books(url, follow=2):
         pages += 1
         nxt = soup.find('a', attrs={'rel': 'next'}) or soup.find('a', string=re.compile(r'^\s*(Next|›|»)\s*$', re.I))
         url = urljoin(r.url, nxt['href']) if nxt and nxt.get('href') else None
+        if url and not url.startswith('http'):
+            url = None
         time.sleep(1)
     uniq = {}
     for b in found:
