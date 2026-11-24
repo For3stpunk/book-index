@@ -1,0 +1,21 @@
+{
+ "name": "Akashic Books",
+ "url": "https://www.akashicbooks.com/",
+ "checked": "2026-11-24",
+ "books": [
+  {
+   "title": "Bookshop",
+   "author": "",
+   "isbn": "9781636140216",
+   "date": "",
+   "url": "https://bookshop.org/books/thicker-than-water-new-writing-from-the-caribbean/9781636140216"
+  },
+  {
+   "title": "Bookshop",
+   "author": "",
+   "isbn": "9781636140872",
+   "date": "",
+   "url": "https://bookshop.org/p/books/havana-haiti-two-cultures-one-community-carl-philippe-juste/9bdfa97166f88392?ean=9781636140872&next=t"
+  }
+ ]
+}

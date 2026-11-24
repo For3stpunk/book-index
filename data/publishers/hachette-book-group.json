@@ -1,0 +1,742 @@
+{
+ "name": "Hachette Book Group",
+ "url": "https://www.hachettebookgroup.com/",
+ "checked": "2026-11-24",
+ "books": [
+  {
+   "title": "Rick Steves Budapest",
+   "author": "",
+   "isbn": "9781641717199",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/rick-steves/rick-steves-budapest/9781641717199/"
+  },
+  {
+   "title": "Rick Steves Pocket Barcelona",
+   "author": "",
+   "isbn": "9781641717274",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/rick-steves/rick-steves-pocket-barcelona/9781641717274/"
+  },
+  {
+   "title": "Moon South Dakota’s Black Hills: With Mount Rushmore & Badlands National Park",
+   "author": "",
+   "isbn": "9798886472141",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/laural-a-bidwell/moon-south-dakotas-black-hills-with-mount-rushmore-badlands-national-park/9798886472141/"
+  },
+  {
+   "title": "For the Love of K-Dramas",
+   "author": "",
+   "isbn": "9781538767573",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/lyla-lee/for-the-love-of-k-dramas/9781538767573/"
+  },
+  {
+   "title": "Vices & Virtues",
+   "author": "",
+   "isbn": "9781538783955",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/alexis-l-menard/vices-virtues/9781538783955/"
+  },
+  {
+   "title": "Love, Grumble",
+   "author": "",
+   "isbn": "9780316574709",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/katrina-swenson/love-grumble/9780316574709/"
+  },
+  {
+   "title": "To the Actual Moon and Back",
+   "author": "",
+   "isbn": "9780316580380",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/ame-dyckman/to-the-actual-moon-and-back/9780316580380/"
+  },
+  {
+   "title": "Duckling Gets a Valentine!",
+   "author": "",
+   "isbn": "9781454969082",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/mo-willems-workshop/duckling-gets-a-valentine/9781454969082/"
+  },
+  {
+   "title": "I Love Everything!",
+   "author": "",
+   "isbn": "9780316601573",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/rosie-pink/i-love-everything/9780316601573/"
+  },
+  {
+   "title": "The World of Strawberry Shortcake: Be My Valentine!",
+   "author": "",
+   "isbn": "9781454970101",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/union-square-kids/the-world-of-strawberry-shortcake-be-my-valentine/9781454970101/"
+  },
+  {
+   "title": "Heartfelt",
+   "author": "",
+   "isbn": "9781523534951",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/lisa-frenkel-riddiough/heartfelt/9781523534951/"
+  },
+  {
+   "title": "Slow Burn",
+   "author": "",
+   "isbn": "9798894143934",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/running-press/slow-burn/9798894143934/"
+  },
+  {
+   "title": "Soyangri Book Kitchen",
+   "author": "",
+   "isbn": "9781454963707",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/kim-jee-hye/soyangri-book-kitchen/9781454963707/"
+  },
+  {
+   "title": "Rise of the Warrior Cop",
+   "author": "",
+   "isbn": "9781541706590",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/radley-balko/rise-of-the-warrior-cop/9781541706590/"
+  },
+  {
+   "title": "A Life in Men",
+   "author": "",
+   "isbn": "9781643758244",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/gina-frangello/a-life-in-men/9781643758244/"
+  },
+  {
+   "title": "The Murder Trial",
+   "author": "",
+   "isbn": "9781538758519",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/james-patterson/the-murder-trial/9781538758519/"
+  },
+  {
+   "title": "The Big Fat Middle School ELA and History 3-Book Boxed Set",
+   "author": "",
+   "isbn": "9781523536252",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/workman-publishing/the-big-fat-middle-school-ela-and-history-3-book-boxed-set/9781523536252/"
+  },
+  {
+   "title": "Love, Witches, and Wahala",
+   "author": "",
+   "isbn": "9780316610582",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/christine-cowan/love-witches-and-wahala/9780316610582/"
+  },
+  {
+   "title": "The Bookkeeper",
+   "author": "",
+   "isbn": "9781454967279",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/mary-mcgarry-morris/the-bookkeeper/9781454967279/"
+  },
+  {
+   "title": "The Boy Who Vanished",
+   "author": "",
+   "isbn": "9780316612074",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/ernest-fontheim/the-boy-who-vanished/9780316612074/"
+  },
+  {
+   "title": "Moon Northern California Road Trips",
+   "author": "",
+   "isbn": "9798886472349",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/kayla-anderson/moon-northern-california-road-trips/9798886472349/"
+  },
+  {
+   "title": "The Yule Day Slaughter",
+   "author": "",
+   "isbn": "9780316578370",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/craig-dilouie/the-yule-day-slaughter/9780316578370/"
+  },
+  {
+   "title": "Engaged to the Enemy",
+   "author": "",
+   "isbn": "9781538774991",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/lucy-smoke/engaged-to-the-enemy/9781538774991/"
+  },
+  {
+   "title": "The Enchanted Library: Tales from Fairy Glade Forest",
+   "author": "",
+   "isbn": "9781523537662",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/marnie-willow/the-enchanted-library-tales-from-fairy-glade-forest/9781523537662/"
+  },
+  {
+   "title": "Wolf Point",
+   "author": "",
+   "isbn": "9781538777572",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/lisa-howells/wolf-point/9781538777572/"
+  },
+  {
+   "title": "Mini Highland Cow",
+   "author": "",
+   "isbn": "9798894142968",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/alasdair-stuart/mini-highland-cow/9798894142968/"
+  },
+  {
+   "title": "To His New Wife",
+   "author": "",
+   "isbn": "9781538787373",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/willow-rose/to-his-new-wife/9781538787373/"
+  },
+  {
+   "title": "The Screaming Love Goat",
+   "author": "",
+   "isbn": "9798894143880",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/jessie-oleson-moore/the-screaming-love-goat/9798894143880/"
+  },
+  {
+   "title": "The Serpent’s Bride",
+   "author": "",
+   "isbn": "9781538784679",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/kathryn-ann-kingsley/the-serpents-bride/9781538784679/"
+  },
+  {
+   "title": "The Girls in the Dark",
+   "author": "",
+   "isbn": "9781538788226",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/avery-bishop/the-girls-in-the-dark/9781538788226/"
+  },
+  {
+   "title": "My First Paint by Sticker: Valentine Friends",
+   "author": "",
+   "isbn": "9781523536931",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/workman-publishing/my-first-paint-by-sticker-valentine-friends/9781523536931/"
+  },
+  {
+   "title": "Scandal",
+   "author": "",
+   "isbn": "9781538784334",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/navessa-allen/scandal/9781538784334/"
+  },
+  {
+   "title": "The Shadow Queen",
+   "author": "",
+   "isbn": "9780316574471",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/mark-a-latham/the-shadow-queen/9780316574471/"
+  },
+  {
+   "title": "I Pray You Will Be Safe",
+   "author": "",
+   "isbn": "9780316613538",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/tala-albanna/i-pray-you-will-be-safe/9780316613538/"
+  },
+  {
+   "title": "Hello Kitty and Friends Be My Valentine",
+   "author": "",
+   "isbn": "9798894142944",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/merrill-hagan/hello-kitty-and-friends-be-my-valentine/9798894142944/"
+  },
+  {
+   "title": "A Little Pop of Love",
+   "author": "",
+   "isbn": "9780316610292",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/amanda-wood/a-little-pop-of-love/9780316610292/"
+  },
+  {
+   "title": "The Stories in You",
+   "author": "",
+   "isbn": "9780316396721",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/veronica-miller-jamison/the-stories-in-you/9780316396721/"
+  },
+  {
+   "title": "Vine of Hearts (Deluxe Limited Edition)",
+   "author": "",
+   "isbn": "9781538771259",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/julie-soto/vine-of-hearts-deluxe-limited-edition/9781538771259/"
+  },
+  {
+   "title": "To Grieve Is to Carry Another Time",
+   "author": "",
+   "isbn": "9780316426015",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/matthew-salesses/to-grieve-is-to-carry-another-time/9780316426015/"
+  },
+  {
+   "title": "The Best Journey in the World",
+   "author": "",
+   "isbn": "9780316570725",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/kim-stanley-robinson/the-best-journey-in-the-world/9780316570725/"
+  },
+  {
+   "title": "Cha Chaan Teng",
+   "author": "",
+   "isbn": "9781648294136",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/lucas-sin/cha-chaan-teng/9781648294136/"
+  },
+  {
+   "title": "The Age of Confiscation",
+   "author": "",
+   "isbn": "9780316464635",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/nicholas-mulder/the-age-of-confiscation/9780316464635/"
+  },
+  {
+   "title": "The Great Atom Debate",
+   "author": "",
+   "isbn": "9781541607224",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/paul-halpern/the-great-atom-debate/9781541607224/"
+  },
+  {
+   "title": "A Private Investigation",
+   "author": "",
+   "isbn": "9781454968665",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/peter-grainger/a-private-investigation/9781454968665/"
+  },
+  {
+   "title": "Who’s the Bot?",
+   "author": "",
+   "isbn": "9781454961062",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/kid-beyond/whos-the-bot/9781454961062/"
+  },
+  {
+   "title": "Ego Scratchers",
+   "author": "",
+   "isbn": "9781683496830",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/knock-knock/ego-scratchers/9781683496830/"
+  },
+  {
+   "title": "Love Scratchers",
+   "author": "",
+   "isbn": "9781683496847",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/knock-knock/love-scratchers/9781683496847/"
+  },
+  {
+   "title": "Ending Your Day Right",
+   "author": "",
+   "isbn": "9781546013457",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/joyce-meyer/ending-your-day-right/9781546013457/"
+  },
+  {
+   "title": "Love Across Borders",
+   "author": "",
+   "isbn": "9781643752334",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/anna-lekas-miller/love-across-borders/9781643752334/"
+  },
+  {
+   "title": "Big (Caldecott Medal Winner & Coretta Scott King Honor Title)",
+   "author": "",
+   "isbn": "9780316353229",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/vashti-harrison/big-caldecott-medal-winner-coretta-scott-king-honor-title/9780316353229/"
+  },
+  {
+   "title": "An American Story (Coretta Scott King Illustrator Award Winner)",
+   "author": "",
+   "isbn": "9780316473125",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/kwame-alexander/an-american-story-coretta-scott-king-illustrator-award-winner/9780316473125/"
+  },
+  {
+   "title": "What Happened to Ruthy Ramirez",
+   "author": "",
+   "isbn": "9781538725979",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/claire-jimenez/what-happened-to-ruthy-ramirez/9781538725979/"
+  },
+  {
+   "title": "Above Ground",
+   "author": "",
+   "isbn": "9780316543033",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/clint-smith/above-ground/9780316543033/"
+  },
+  {
+   "title": "Why Fathers Cry at Night",
+   "author": "",
+   "isbn": "9780316417228",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/kwame-alexander/why-fathers-cry-at-night/9780316417228/"
+  },
+  {
+   "title": "Nightbloom",
+   "author": "",
+   "isbn": "9781643752846",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/peace-adzo-medie/nightbloom/9781643752846/"
+  },
+  {
+   "title": "Leslie F*cking Jones",
+   "author": "",
+   "isbn": "9781668623459",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/leslie-jones/leslie-fcking-jones/9781668623459/"
+  },
+  {
+   "title": "The Goldfinch",
+   "author": "",
+   "isbn": "9780316055444",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/donna-tartt/the-goldfinch/9780316055444/"
+  },
+  {
+   "title": "Less (Winner of the Pulitzer Prize)",
+   "author": "",
+   "isbn": "9780316316132",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/andrew-sean-greer/less-winner-of-the-pulitzer-prize/9780316316132/"
+  },
+  {
+   "title": "Six Seasons",
+   "author": "",
+   "isbn": "9781579656317",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/joshua-mcfadden/six-seasons/9781579656317/"
+  },
+  {
+   "title": "Berry Song (Caldecott Honor Award Winner)",
+   "author": "",
+   "isbn": "9780316494175",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/michaela-goade/berry-song-caldecott-honor-award-winner/9780316494175/"
+  },
+  {
+   "title": "Cursed Bunny",
+   "author": "",
+   "isbn": "9781643753607",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/bora-chung/cursed-bunny/9781643753607/"
+  },
+  {
+   "title": "How the Word Is Passed",
+   "author": "",
+   "isbn": "9780316492935",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/clint-smith/how-the-word-is-passed/9780316492935/"
+  },
+  {
+   "title": "Happy-Go-Lucky",
+   "author": "",
+   "isbn": "9781668604588",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/david-sedaris/happy-go-lucky/9781668604588/"
+  },
+  {
+   "title": "How Far the Light Reaches",
+   "author": "",
+   "isbn": "9780316540537",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/sabrina-imbler/how-far-the-light-reaches/9780316540537/"
+  },
+  {
+   "title": "Martin’s Big Words",
+   "author": "",
+   "isbn": "9781423106357",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/doreen-rappaport/martins-big-words/9781423106357/"
+  },
+  {
+   "title": "The Ogress and the Orphans",
+   "author": "",
+   "isbn": "9781643750743",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/kelly-barnhill/the-ogress-and-the-orphans/9781643750743/"
+  },
+  {
+   "title": "Mosquito Supper Club",
+   "author": "",
+   "isbn": "9781579658472",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/melissa-m-martin/mosquito-supper-club/9781579658472/"
+  },
+  {
+   "title": "Freewater (Newbery & Coretta Scott King Award Winner)",
+   "author": "",
+   "isbn": "9780316056618",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/amina-luqman-dawson/freewater-newbery-coretta-scott-king-award-winner/9780316056618/"
+  },
+  {
+   "title": "A Big Mooncake for Little Star (Caldecott Honor Award Winner)",
+   "author": "",
+   "isbn": "9780316404488",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/grace-lin/a-big-mooncake-for-little-star-caldecott-honor-award-winner/9780316404488/"
+  },
+  {
+   "title": "All the Frequent Troubles of Our Days",
+   "author": "",
+   "isbn": "9780316561723",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/rebecca-donner/all-the-frequent-troubles-of-our-days/9780316561723/"
+  },
+  {
+   "title": "The Luminaries",
+   "author": "",
+   "isbn": "9780316074292",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/eleanor-catton/the-luminaries/9780316074292/"
+  },
+  {
+   "title": "Freedom’s Dominion (Winner of the Pulitzer Prize)",
+   "author": "",
+   "isbn": "9781541672802",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/jefferson-cowie/freedom%e2%80%99s-dominion-winner-of-the-pulitzer-prize/9781541672802/"
+  },
+  {
+   "title": "The Girl Who Drank the Moon (Winner of the 2017 Newbery Medal)",
+   "author": "",
+   "isbn": "9781616205676",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/kelly-barnhill/the-girl-who-drank-the-moon-winner-of-the-2017-newbery-medal/9781616205676/"
+  },
+  {
+   "title": "Grains for Every Season",
+   "author": "",
+   "isbn": "9781579659561",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/joshua-mcfadden/grains-for-every-season/9781579659561/"
+  },
+  {
+   "title": "Ancillary Justice",
+   "author": "",
+   "isbn": "9780316246620",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/ann-leckie/ancillary-justice/9780316246620/"
+  },
+  {
+   "title": "The Devil Takes You Home",
+   "author": "",
+   "isbn": "9780316426916",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/gabino-iglesias/the-devil-takes-you-home/9780316426916/"
+  },
+  {
+   "title": "Moonrise Over New Jessup",
+   "author": "",
+   "isbn": "9781643752464",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/jamila-minnicks/moonrise-over-new-jessup/9781643752464/"
+  },
+  {
+   "title": "Whole Food Cooking Every Day",
+   "author": "",
+   "isbn": "9781579658021",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/amy-chaplin/whole-food-cooking-every-day/9781579658021/"
+  },
+  {
+   "title": "The Barbecue! Bible",
+   "author": "",
+   "isbn": "9780761149439",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/steven-raichlen/the-barbecue-bible/9780761149439/"
+  },
+  {
+   "title": "Me . . . Jane (Caldecott Honor Award Winner)",
+   "author": "",
+   "isbn": "9780316045469",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/patrick-mcdonnell/me-jane-caldecott-honor-award-winner/9780316045469/"
+  },
+  {
+   "title": "The Me I Choose To Be",
+   "author": "",
+   "isbn": "9780316461542",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/natasha-anastasia-tarpley/the-me-i-choose-to-be/9780316461542/"
+  },
+  {
+   "title": "Calling for a Blanket Dance",
+   "author": "",
+   "isbn": "9781643751474",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/oscar-hokeah/calling-for-a-blanket-dance/9781643751474/"
+  },
+  {
+   "title": "Cheryl Day’s Treasury of Southern Baking",
+   "author": "",
+   "isbn": "9781579658410",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/cheryl-day/cheryl-days-treasury-of-southern-baking/9781579658410/"
+  },
+  {
+   "title": "Cookies & Milk",
+   "author": "",
+   "isbn": "9780759556775",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/shawn-amos/cookies-milk/9780759556775/"
+  },
+  {
+   "title": "Didn’t Nobody Give a Shit What Happened to Carlotta",
+   "author": "",
+   "isbn": "9780316285278",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/james-hannaham/didnt-nobody-give-a-shit-what-happened-to-carlotta/9780316285278/"
+  },
+  {
+   "title": "Troublemaker",
+   "author": "",
+   "isbn": "9780759554474",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/john-cho/troublemaker/9780759554474/"
+  },
+  {
+   "title": "Unequal",
+   "author": "",
+   "isbn": "9780759557017",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/michael-eric-dyson/unequal/9780759557017/"
+  },
+  {
+   "title": "The Rise",
+   "author": "",
+   "isbn": "9780316480680",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/marcus-samuelsson/the-rise/9780316480680/"
+  },
+  {
+   "title": "Cooking alla Giudia",
+   "author": "",
+   "isbn": "9781579659806",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/benedetta-jasmine-guetta/cooking-alla-giudia/9781579659806/"
+  },
+  {
+   "title": "The Miracle of Salt",
+   "author": "",
+   "isbn": "9781579659448",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/naomi-duguid/the-miracle-of-salt/9781579659448/"
+  },
+  {
+   "title": "When the Sea Turned to Silver (National Book Award Finalist)",
+   "author": "",
+   "isbn": "9780316125949",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/grace-lin/when-the-sea-turned-to-silver-national-book-award-finalist/9780316125949/"
+  },
+  {
+   "title": "Moses",
+   "author": "",
+   "isbn": "9780786851751",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/carole-boston-weatherford-3/moses/9780786851751/"
+  },
+  {
+   "title": "Bear Came Along (Caldecott Honor Award Winner)",
+   "author": "",
+   "isbn": "9780316464475",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/richard-t-morris/bear-came-along-caldecott-honor-award-winner/9780316464475/"
+  },
+  {
+   "title": "Strong",
+   "author": "",
+   "isbn": "9780316292900",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/rob-kearney/strong/9780316292900/"
+  },
+  {
+   "title": "The Door of No Return",
+   "author": "",
+   "isbn": "9781668610770",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/kwame-alexander/the-door-of-no-return/9781668610770/"
+  },
+  {
+   "title": "Pachinko (National Book Award Finalist)",
+   "author": "",
+   "isbn": "9781455563920",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/min-jin-lee/pachinko-national-book-award-finalist/9781455563920/"
+  },
+  {
+   "title": "Milk Street: The New Rules",
+   "author": "",
+   "isbn": "9780316423052",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/christopher-kimball/milk-street-the-new-rules/9780316423052/"
+  },
+  {
+   "title": "The Hello, Goodbye Window (Caldecott Medal Winner)",
+   "author": "",
+   "isbn": "9780786809141",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/norton-juster/the-hello-goodbye-window-caldecott-medal-winner/9780786809141/"
+  },
+  {
+   "title": "Beautiful Swimmers",
+   "author": "",
+   "isbn": "9780316923354",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/william-w-warner/beautiful-swimmers/9780316923354/"
+  },
+  {
+   "title": "The Women’s House of Detention",
+   "author": "",
+   "isbn": "9781645036661",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/hugh-ryan/the-womens-house-of-detention/9781645036661/"
+  },
+  {
+   "title": "¡Gracias, Omu! (Thank You, Omu!)",
+   "author": "",
+   "isbn": "9780316541664",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/oge-mora/%c2%a1gracias-omu-thank-you-omu/9780316541664/"
+  },
+  {
+   "title": "What Happened to You?",
+   "author": "",
+   "isbn": "9780316506472",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/james-catchpole/what-happened-to-you/9780316506472/"
+  },
+  {
+   "title": "A Door Made for Me",
+   "author": "",
+   "isbn": "9781668624005",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/tyler-merritt/a-door-made-for-me/9781668624005/"
+  },
+  {
+   "title": "The Monsters We Defy",
+   "author": "",
+   "isbn": "9781668605813",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/leslye-penelope/the-monsters-we-defy/9781668605813/"
+  },
+  {
+   "title": "Chinese Menu",
+   "author": "",
+   "isbn": "9780316486002",
+   "date": "",
+   "url": "https://www.hachettebookgroup.com/titles/grace-lin/chinese-menu/9780316486002/"
+  }
+ ]
+}

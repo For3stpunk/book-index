@@ -1,5 +1,5 @@
 {
- "run": "2026-11-24T13:23:52Z",
+ "run": "2026-11-24T13:48:08Z",
  "core": {
   "pw_reviews": {
    "status": "ok",
@@ -60,7 +60,7 @@
   "amazon_new_releases": {
    "status": "ok",
    "final_url": "https://www.amazon.com/gp/new-releases/books/",
-   "bytes": 670684,
+   "bytes": 672062,
    "jsonld_books": 0,
    "isbn_links": 0,
    "isbn_mentions": 0,
@@ -98,7 +98,17 @@
  "publishers": {
   "Penguin Random House": {
    "url": "https://www.penguinrandomhouse.com/books/coming-soon/",
-   "status": "error: ReadTimeout"
+   "status": "ok",
+   "final_url": "https://www.penguinrandomhouse.com/books/coming-soon/",
+   "bytes": 831012,
+   "jsonld_books": 408,
+   "isbn_links": 2,
+   "isbn_mentions": 206,
+   "title": "Coming Soon Books | Penguin Random House",
+   "api_hints": [
+    "/search/site"
+   ],
+   "script_count": 10
   },
   "HarperCollins": {
    "url": "https://www.harpercollins.com/collections/coming-soon",
@@ -121,24 +131,40 @@
    "status": "error: http 403"
   },
   "Hachette Book Group": {
-   "url": "https://www.hachettebookgroup.com/coming-soon/",
-   "status": "error: http 404"
+   "url": "https://www.hachettebookgroup.com/",
+   "status": "ok",
+   "final_url": "https://www.hachettebookgroup.com/",
+   "bytes": 523532,
+   "jsonld_books": 0,
+   "isbn_links": 105,
+   "isbn_mentions": 113,
+   "title": "Hachette Book Group",
+   "api_hints": [],
+   "script_count": 21
   },
   "W. W. Norton": {
-   "url": "https://wwnorton.com/books/new-and-forthcoming",
+   "url": "https://wwnorton.com/",
    "status": "ok",
-   "final_url": "https://wwnorton.com/books/new-and-forthcoming",
-   "bytes": 19526,
+   "final_url": "https://wwnorton.com/",
+   "bytes": 73768,
    "jsonld_books": 0,
    "isbn_links": 0,
-   "isbn_mentions": 0,
-   "title": "Page Not Found | W. W. Norton & Company",
+   "isbn_mentions": 61,
+   "title": "Home Page | W. W. Norton & Company",
    "api_hints": [],
-   "script_count": 6
+   "script_count": 8
   },
   "Grove Atlantic": {
-   "url": "https://groveatlantic.com/upcoming-titles/",
-   "status": "error: http 404"
+   "url": "https://groveatlantic.com/books/",
+   "status": "ok",
+   "final_url": "https://groveatlantic.com/books/",
+   "bytes": 219219,
+   "jsonld_books": 0,
+   "isbn_links": 0,
+   "isbn_mentions": 9,
+   "title": "Books | Grove Atlantic",
+   "api_hints": [],
+   "script_count": 28
   },
   "Graywolf Press": {
    "url": "https://www.graywolfpress.org/books/forthcoming",
@@ -157,26 +183,60 @@
    "status": "error: http 403"
   },
   "Europa Editions": {
-   "url": "https://www.europaeditions.com/books/forthcoming",
-   "status": "error: http 404"
+   "url": "https://www.europaeditions.com/",
+   "status": "ok",
+   "final_url": "https://www.europaeditions.com/",
+   "bytes": 481403,
+   "jsonld_books": 0,
+   "isbn_links": 25,
+   "isbn_mentions": 26,
+   "title": "Europa Editions",
+   "api_hints": [],
+   "script_count": 1
   },
   "Coffee House Press": {
-   "url": "https://coffeehousepress.org/collections/forthcoming",
-   "status": "error: http 404"
+   "url": "https://coffeehousepress.org/",
+   "status": "ok",
+   "final_url": "https://coffeehousepress.org/",
+   "bytes": 621788,
+   "jsonld_books": 0,
+   "isbn_links": 0,
+   "isbn_mentions": 12,
+   "title": "Coffee House Press",
+   "api_hints": [
+    "/search/suggest"
+   ],
+   "script_count": 15
   },
   "Milkweed Editions": {
-   "url": "https://milkweed.org/books/upcoming",
-   "status": "error: http 404"
+   "url": "https://milkweed.org/books",
+   "status": "ok",
+   "final_url": "https://milkweed.org/books",
+   "bytes": 96892,
+   "jsonld_books": 0,
+   "isbn_links": 0,
+   "isbn_mentions": 2,
+   "title": "Our books | Milkweed Editions",
+   "api_hints": [],
+   "script_count": 10
   },
   "New Directions": {
-   "url": "https://www.ndbooks.com/new-forthcoming/",
-   "status": "error: http 404"
+   "url": "https://www.ndbooks.com/books/",
+   "status": "ok",
+   "final_url": "https://www.ndbooks.com/books/",
+   "bytes": 291425,
+   "jsonld_books": 0,
+   "isbn_links": 0,
+   "isbn_mentions": 113,
+   "title": "Forthcoming | New Directions Publishing",
+   "api_hints": [],
+   "script_count": 6
   },
   "NYRB / New York Review Books": {
    "url": "https://www.nyrb.com/collections/forthcoming",
    "status": "ok",
    "final_url": "https://www.nyrb.com/collections/forthcoming",
-   "bytes": 1544337,
+   "bytes": 1544319,
    "jsonld_books": 0,
    "isbn_links": 0,
    "isbn_mentions": 51,
@@ -199,27 +259,59 @@
    "script_count": 5
   },
   "Akashic Books": {
-   "url": "https://www.akashicbooks.com/forthcoming/",
-   "status": "error: http 404"
+   "url": "https://www.akashicbooks.com/",
+   "status": "ok",
+   "final_url": "https://www.akashicbooks.com/",
+   "bytes": 100129,
+   "jsonld_books": 0,
+   "isbn_links": 2,
+   "isbn_mentions": 8,
+   "title": "Akashic Books | Reverse-Gentrification of the Literary World",
+   "api_hints": [],
+   "script_count": 26
   },
   "Melville House": {
-   "url": "https://www.mhpbooks.com/books/forthcoming/",
-   "status": "error: http 404"
+   "url": "https://mhpbooks.com/books/",
+   "status": "ok",
+   "final_url": "https://mhpbooks.com/books/",
+   "bytes": 121836,
+   "jsonld_books": 1,
+   "isbn_links": 0,
+   "isbn_mentions": 69,
+   "title": "MHP Books | Books Overview",
+   "api_hints": [],
+   "script_count": 3
   },
   "Counterpoint / Catapult / Soft Skull": {
-   "url": "https://www.counterpointpress.com/forthcoming/",
-   "status": "error: http 404"
+   "url": "https://www.counterpointpress.com/books/",
+   "status": "ok",
+   "final_url": "https://www.counterpointpress.com/books/",
+   "bytes": 146836,
+   "jsonld_books": 0,
+   "isbn_links": 0,
+   "isbn_mentions": 12,
+   "title": "",
+   "api_hints": [],
+   "script_count": 8
   },
   "Tin House": {
    "url": "https://tinhouse.com/books/",
    "status": "error: http 404"
   },
   "Two Dollar Radio": {
-   "url": "https://twodollarradio.com/collections/books",
-   "status": "error: http 404"
+   "url": "https://twodollarradio.com/collections/forthcoming",
+   "status": "ok",
+   "final_url": "https://twodollarradio.com/collections/forthcoming",
+   "bytes": 437276,
+   "jsonld_books": 0,
+   "isbn_links": 0,
+   "isbn_mentions": 11,
+   "title": "Forthcoming books | Two Dollar Radio titles coming soon",
+   "api_hints": [],
+   "script_count": 14
   },
   "Feminist Press": {
-   "url": "https://www.feministpress.org/forthcoming",
+   "url": "https://feministpress.org/collections/coming-soon",
    "status": "ok",
    "final_url": "https://feministpress.org/collections/coming-soon",
    "bytes": 162542,
@@ -233,10 +325,10 @@
    "script_count": 12
   },
   "Seven Stories Press": {
-   "url": "https://www.sevenstories.com/books/forthcoming",
+   "url": "https://www.sevenstories.com/",
    "status": "ok",
    "final_url": "https://www.sevenstories.com/",
-   "bytes": 49269,
+   "bytes": 49176,
    "jsonld_books": 0,
    "isbn_links": 0,
    "isbn_mentions": 8,
@@ -245,14 +337,24 @@
    "script_count": 4
   },
   "Verso Books": {
-   "url": "https://www.versobooks.com/en-us/collections/coming-soon",
-   "status": "error: http 404"
+   "url": "https://www.versobooks.com/collections/forthcoming",
+   "status": "ok",
+   "final_url": "https://www.versobooks.com/collections/forthcoming",
+   "bytes": 218883,
+   "jsonld_books": 0,
+   "isbn_links": 0,
+   "isbn_mentions": 75,
+   "title": "Forthcoming Books | Verso Books",
+   "api_hints": [
+    "/search/suggest"
+   ],
+   "script_count": 13
   },
   "Haymarket Books": {
-   "url": "https://www.haymarketbooks.org/books?sort=pub_date",
+   "url": "https://www.haymarketbooks.org/books",
    "status": "ok",
-   "final_url": "https://www.haymarketbooks.org/books?sort=pub_date",
-   "bytes": 59918,
+   "final_url": "https://www.haymarketbooks.org/books",
+   "bytes": 59706,
    "jsonld_books": 0,
    "isbn_links": 0,
    "isbn_mentions": 29,
@@ -265,8 +367,16 @@
    "status": "error: http 404"
   },
   "Astra House / Astra Publishing": {
-   "url": "https://astrapublishinghouse.com/coming-soon/",
-   "status": "error: http 404"
+   "url": "https://astrapublishinghouse.com/books/",
+   "status": "ok",
+   "final_url": "https://astrapublishinghouse.com/books/",
+   "bytes": 139516,
+   "jsonld_books": 0,
+   "isbn_links": 10,
+   "isbn_mentions": 11,
+   "title": "Books | Astra Publishing House",
+   "api_hints": [],
+   "script_count": 25
   },
   "Zando": {
    "url": "https://zandoprojects.com/books/",
@@ -281,8 +391,18 @@
    "script_count": 2
   },
   "Chronicle Books": {
-   "url": "https://www.chroniclebooks.com/collections/coming-soon",
-   "status": "error: http 404"
+   "url": "https://www.chroniclebooks.com/collections/new",
+   "status": "ok",
+   "final_url": "https://www.chroniclebooks.com/collections/new",
+   "bytes": 374719,
+   "jsonld_books": 0,
+   "isbn_links": 0,
+   "isbn_mentions": 67,
+   "title": "New | Chronicle Books",
+   "api_hints": [
+    "/search/suggest"
+   ],
+   "script_count": 30
   },
   "Abrams": {
    "url": "https://www.abramsbooks.com/coming-soon/",
@@ -309,7 +429,7 @@
    "status": "error: ConnectTimeout"
   },
   "Restless Books": {
-   "url": "https://www.restlessbooks.org/books",
+   "url": "https://restlessbooks.org/bookstore",
    "status": "ok",
    "final_url": "https://restlessbooks.org/bookstore",
    "bytes": 1453105,
