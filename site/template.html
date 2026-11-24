@@ -188,6 +188,7 @@ function open(b){
  ${b.bisac?`<p class="facts"><span>${esc(b.bisac)}</span></p>`:''}
  <p class="facts"><span>Listed by: ${(b.src||['E']).map(c=>c==='PW'&&b.pwUrl?`<a href="${esc(b.pwUrl)}" target="_blank" rel="noopener">${SRCN[c]}${b.pwStar?' (starred)':''}</a>`:esc(SRCN[c]||c)).join(' · ')}</span>${b.tba?'<span>Exact date to be confirmed</span>':''}</p>
  <div class="desc" id="ddesc"><p>Loading the description…</p></div>
+ ${b.brPosts&&b.brPosts.length?`<div class="news"><b>On Book Riot</b><ul>${b.brPosts.map(p=>`<li><a href="${esc(p.u)}" target="_blank" rel="noopener">${esc(p.t)}</a></li>`).join('')}</ul></div>`:''}
  ${b.news&&b.news.length?`<div class="news"><b>In the news</b><ul>${b.news.map(n=>`<li><a href="${esc(n.link)}" target="_blank" rel="noopener">${esc(n.title)}</a> · ${esc(n.source)}, ${esc(n.date)}</li>`).join('')}</ul></div>`:''}
  <div class="acts"><button type="button" class="btn" id="wbtn" aria-pressed="${w}">${w?'★ On your watchlist':'☆ Add to watchlist'}</button>
  <a class="btn" href="https://www.edelweiss.plus/#sku=${esc(b.ean)}&page=1" target="_blank" rel="noopener">Edelweiss</a>

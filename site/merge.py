@@ -63,6 +63,16 @@ for r in map(fix, pw):
     by_ta[(norm(rec['t']), last(rec['a']))] = rec
     added += 1
 
+br_hits = br_added = 0
+brp = f'{repo}/data/bookriot/mentions.json'
+for r in (json.load(open(brp)) if os.path.exists(brp) else []):
+    hit = by_isbn.get(r['isbn']) or by_ta.get((norm(r['title']), last(r['author'])))
+    if hit:
+        if 'BR' not in hit['src']:
+            hit['src'].append('BR')
+            br_hits += 1
+        hit['brPosts'] = [{'t': p['post_title'], 'u': p['post_url']} for p in r['posts']][:5]
+
 pub_hits = pub_added = 0
 for f in glob.glob(f'{repo}/data/publishers/*.json'):
     if f.endswith('_report.json'):
@@ -81,4 +91,5 @@ for f in glob.glob(f'{repo}/data/publishers/*.json'):
 
 B.sort(key=lambda r: (r['d'], 1 if r.get('tba') else 0, 0 if r.get('img') else 1, r['t']))
 json.dump(B, open('books_merged.json', 'w'), ensure_ascii=False, separators=(',', ':'))
+print('bookriot matched', br_hits)
 print('pw matched', matched, 'pw added', added, 'publisher hits', pub_hits, 'publisher added', pub_added, 'total', len(B))

@@ -359,7 +359,7 @@ def bookriot(days=45):
             url = (f'https://bookriot.com/wp-json/wp/v2/posts?search={requests.utils.quote(q)}&after={after}'
                    f'&per_page=50&page={page}&_fields=id,date,link,title,content')
             try:
-                r = get(url, tries=2)
+                r = get(url, tries=3, timeout=75)
                 arr = r.json()
             except Exception as e:
                 print('bookriot', q, page, e); break
