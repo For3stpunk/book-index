@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Book Finder Import Relay</title>
+<style>
+:root{color-scheme:light dark;--bg:light-dark(#f6f7f9,#0f141a);--ink:light-dark(#16202b,#e6ebf1);--muted:light-dark(#5b6877,#93a0af);--ok:light-dark(#1f7a4d,#6ccb9b)}
+body{background:var(--bg);color:var(--ink);font:14px/1.45 ui-sans-serif,system-ui,sans-serif;margin:0;padding:24px 16px}
+h1{font-size:22px;margin:0 0 6px}p{color:var(--muted);margin:0 0 14px;max-width:60ch}
+#st{font-family:ui-monospace,Menlo,monospace;font-size:13px;margin-bottom:12px}#log{font-family:ui-monospace,Menlo,monospace;font-size:12px;color:var(--muted);white-space:pre-wrap}
+b{color:var(--ok)}button{font:inherit;padding:10px 18px;border-radius:8px;border:0;background:#c8102e;color:#fff;cursor:pointer;min-height:44px}
+</style></head><body>
+<h1>Book Finder Import Relay</h1>
+<p>Helper for the New Book Releases Finder: receives the titles pulled from Edelweiss in your browser and stores them as JSON files Claude can read. Keep this tab open while an import runs.</p>
+<div id="st">Waiting for the assets capability…</div>
+<p><button id="open" type="button">Open Edelweiss sender</button> <button id="openimg" type="button">Open cover sender</button></p>
+<div id="log"></div>
+<script>
+const ORIGINS=["https://www.edelweiss.plus","https://images-azf.edelweiss.plus"];
+const st=document.getElementById('st'),log=document.getElementById('log');
+let assets=null,count=0,bytes=0;const seen=new Set();
+function L(s){log.textContent=s+"\n"+log.textContent.slice(0,4000)}
+document.getElementById('open').onclick=()=>{window.__w=window.open(ORIGINS[0]+"/#dashboard","_blank");L(window.__w?"sender opened":"popup blocked")};
+document.getElementById('openimg').onclick=()=>{window.__w2=window.open(ORIGINS[1]+"/ea/SS/images/jacket_covers/original/9798902680024_57f3b.jpg","_blank");L(window.__w2?"cover sender opened":"popup blocked")};
+(async()=>{try{assets=await claude.use("assets")}catch(e){}st.textContent=assets?"Ready. Files stored: 0":"Assets capability unavailable in this view."})();
+window.addEventListener("message",async(ev)=>{
+ if(!ORIGINS.includes(ev.origin))return;const ORIGIN=ev.origin;const m=ev.data;if(!m||typeof m!=="object")return;
+ const reply=o=>{try{ev.source.postMessage(Object.assign({relay:1},o),ORIGIN)}catch(e){}};
+ if(m.type==="bfping"){reply({type:"bfpong",ready:!!assets,count});return}
+ if(m.type==="bflist"){try{const l=await (await fetch("covlist.json")).json();reply({type:"bflist",list:l})}catch(e){reply({type:"bflist",error:String(e)})}return}
+ if(m.type!=="bfchunk"||typeof m.name!=="string"||(typeof m.text!=="string"&&!(m.blob instanceof Blob)))return;
+ if(!assets){reply({type:"bfack",name:m.name,error:"no_assets"});return}
+ if(seen.has(m.name)){reply({type:"bfack",name:m.name,dup:true});return}
+ try{const r=await assets.upload(m.blob instanceof Blob?m.blob:new Blob([m.text],{type:"application/json"}));seen.add(m.name);count++;bytes+=r.sizeBytes;
+  st.innerHTML="Files stored: <b>"+count+"</b> · "+(bytes/1048576).toFixed(1)+" MB";L(m.name+" → "+r.id);reply({type:"bfack",name:m.name,id:r.id,size:r.sizeBytes});
+ }catch(e){const c=(e&&e.code)||String(e);L(m.name+" failed: "+c);reply({type:"bfack",name:m.name,error:c})}
+});
+</script>
+</body></html>
