@@ -228,6 +228,49 @@ def pw(max_pages=120, back_days=150):
     print('pw reviews total', len(db), 'new', added)
 
 
+# ---------------------------------------------------------------- discovery of releases pages
+CANDIDATES = ['/coming-soon/', '/coming-soon', '/forthcoming/', '/forthcoming', '/books/forthcoming/', '/collections/forthcoming',
+              '/collections/coming-soon', '/new-releases/', '/new-releases', '/books/coming-soon/', '/upcoming/', '/books/upcoming',
+              '/catalog/forthcoming', '/books/', '/books', '/catalog/', '/new-and-upcoming/', '/new-forthcoming/', '/']
+
+
+def discover():
+    from urllib.parse import urlparse
+    out = {}
+    for p in rows('sources/publishers.csv'):
+        u = urlparse(p['releases_page'])
+        root = f'{u.scheme}://{u.netloc}'
+        tried = []
+        for path in [u.path or '/'] + CANDIDATES:
+            url = root + path
+            try:
+                r = get(url, tries=1, timeout=20)
+                n = len(set(ISBN13.findall(r.text)))
+                tried.append({'url': r.url, 'isbns': n, 'bytes': len(r.text)})
+            except Exception as e:
+                tried.append({'url': url, 'error': str(e)})
+            time.sleep(0.5)
+        good = sorted([t for t in tried if t.get('isbns')], key=lambda t: -t['isbns'])
+        out[p['publisher']] = {'best': good[0]['url'] if good else '', 'best_isbns': good[0]['isbns'] if good else 0, 'tried': tried}
+        print('discover', p['publisher'], out[p['publisher']]['best'], out[p['publisher']]['best_isbns'])
+    save('data/discover.json', out)
+
+
+def kirkus_probe():
+    base = 'https://www.kirkusreviews.com'
+    tries = ['/api/v1/search/books/?q=&page=1', '/api/v1/search/books/', '/search/books/?q=january',
+             '/api/v1/search/books/?sort=coming_soon', '/api/v1/discover-books/?genre=fiction&sort=coming_soon',
+             '/discover-books/fiction?sort=coming_soon', '/book-reviews/fiction/']
+    out = {}
+    for t in tries:
+        try:
+            r = S.get(base + t, timeout=30, headers={'Accept': 'application/json, text/html'})
+            out[t] = {'status': r.status_code, 'type': r.headers.get('content-type', ''), 'head': r.text[:3000]}
+        except Exception as e:
+            out[t] = {'error': str(e)}
+    save('data/kirkus_probe.json', out)
+
+
 # ---------------------------------------------------------------- publisher + author sites
 def site_books(url, follow=2):
     """Books on a page and up to `follow` next pages."""
@@ -276,5 +319,7 @@ if __name__ == '__main__':
         pw()
     if what in ('publishers', 'all'):
         sites('publishers')
+    if what in ('discover',):
+        discover(); kirkus_probe()
     if what in ('authors', 'all'):
         sites('authors')

@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
     inputs:
       what:
-        description: 'probe | pw | publishers | authors | all'
+        description: 'probe | discover | pw | publishers | authors | all'
         default: 'all'
 
 permissions:
