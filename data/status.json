@@ -1,0 +1,325 @@
+{
+ "run": "2026-11-24T13:23:52Z",
+ "core": {
+  "pw_reviews": {
+   "status": "ok",
+   "final_url": "https://www.publishersweekly.com/pw/reviews/fiction.html",
+   "bytes": 67473,
+   "jsonld_books": 0,
+   "isbn_links": 10,
+   "isbn_mentions": 20,
+   "title": "Book Reviews, Bestselling Books & Publishing Business News | Publishers Weekly",
+   "api_hints": [],
+   "script_count": 11
+  },
+  "kirkus_discover": {
+   "status": "ok",
+   "final_url": "https://www.kirkusreviews.com/discover-books/fiction",
+   "bytes": 105903,
+   "jsonld_books": 0,
+   "isbn_links": 0,
+   "isbn_mentions": 0,
+   "title": "Book Reviews & Recommendations | Kirkus Reviews",
+   "api_hints": [
+    "/api/v1/search/kirkus-tv/",
+    "/api/v1/search/news_n_features/",
+    "/api/v1/search/podcast/",
+    "/api/v1/search/pro-authors/",
+    "/search/books/"
+   ],
+   "script_count": 3
+  },
+  "kirkus_home": {
+   "status": "ok",
+   "final_url": "https://www.kirkusreviews.com/",
+   "bytes": 163225,
+   "jsonld_books": 0,
+   "isbn_links": 0,
+   "isbn_mentions": 0,
+   "title": "Kirkus Reviews",
+   "api_hints": [
+    "/api/v1/search/kirkus-tv/",
+    "/api/v1/search/news_n_features/",
+    "/api/v1/search/podcast/",
+    "/api/v1/search/pro-authors/",
+    "/search/books/"
+   ],
+   "script_count": 3
+  },
+  "bookriot_home": {
+   "status": "ok",
+   "final_url": "https://bookriot.com/",
+   "bytes": 180141,
+   "jsonld_books": 0,
+   "isbn_links": 0,
+   "isbn_mentions": 0,
+   "title": "BOOK RIOT - Book Recommendations and Reviews",
+   "api_hints": [],
+   "script_count": 7
+  },
+  "amazon_new_releases": {
+   "status": "ok",
+   "final_url": "https://www.amazon.com/gp/new-releases/books/",
+   "bytes": 670684,
+   "jsonld_books": 0,
+   "isbn_links": 0,
+   "isbn_mentions": 0,
+   "title": "Amazon.com New Releases: The best-selling new & future releases in Books",
+   "api_hints": [],
+   "script_count": 0
+  },
+  "edelweiss": {
+   "status": "ok",
+   "final_url": "https://www.edelweiss.plus/",
+   "bytes": 249982,
+   "jsonld_books": 0,
+   "isbn_links": 0,
+   "isbn_mentions": 0,
+   "title": "Edelweiss",
+   "api_hints": [
+    "/api/filters/",
+    "/api/me/buzz/exclusions/",
+    "/api/me/galleys/availability/exclusions/",
+    "/api/me/reviews/exclusions/",
+    "/api/products/",
+    "/api/v1/content",
+    "/api/v1/content/batch",
+    "/api/v2/analytics/lanes",
+    "api/affiliations/",
+    "api/me/catalogs/exclusions/",
+    "api/me/notes/accounts/",
+    "api/me/orgtags/accounts/",
+    "api/products/",
+    "api/v1/search/titles"
+   ],
+   "script_count": 171
+  }
+ },
+ "publishers": {
+  "Penguin Random House": {
+   "url": "https://www.penguinrandomhouse.com/books/coming-soon/",
+   "status": "error: ReadTimeout"
+  },
+  "HarperCollins": {
+   "url": "https://www.harpercollins.com/collections/coming-soon",
+   "status": "ok",
+   "final_url": "https://www.harpercollins.com/collections/coming-soon",
+   "bytes": 257452,
+   "jsonld_books": 0,
+   "isbn_links": 0,
+   "isbn_mentions": 85,
+   "title": "Coming Soon\r– HarperCollins",
+   "api_hints": [],
+   "script_count": 34
+  },
+  "Simon & Schuster": {
+   "url": "https://www.simonandschuster.com/p/coming-soon",
+   "status": "error: http 403"
+  },
+  "Macmillan": {
+   "url": "https://us.macmillan.com/coming-soon",
+   "status": "error: http 403"
+  },
+  "Hachette Book Group": {
+   "url": "https://www.hachettebookgroup.com/coming-soon/",
+   "status": "error: http 404"
+  },
+  "W. W. Norton": {
+   "url": "https://wwnorton.com/books/new-and-forthcoming",
+   "status": "ok",
+   "final_url": "https://wwnorton.com/books/new-and-forthcoming",
+   "bytes": 19526,
+   "jsonld_books": 0,
+   "isbn_links": 0,
+   "isbn_mentions": 0,
+   "title": "Page Not Found | W. W. Norton & Company",
+   "api_hints": [],
+   "script_count": 6
+  },
+  "Grove Atlantic": {
+   "url": "https://groveatlantic.com/upcoming-titles/",
+   "status": "error: http 404"
+  },
+  "Graywolf Press": {
+   "url": "https://www.graywolfpress.org/books/forthcoming",
+   "status": "error: http 404"
+  },
+  "Bloomsbury USA": {
+   "url": "https://www.bloomsbury.com/us/new-releases/",
+   "status": "error: http 403"
+  },
+  "Sourcebooks": {
+   "url": "https://www.sourcebooks.com/new-releases.html",
+   "status": "error: http 406"
+  },
+  "Kensington": {
+   "url": "https://www.kensingtonbooks.com/new-releases",
+   "status": "error: http 403"
+  },
+  "Europa Editions": {
+   "url": "https://www.europaeditions.com/books/forthcoming",
+   "status": "error: http 404"
+  },
+  "Coffee House Press": {
+   "url": "https://coffeehousepress.org/collections/forthcoming",
+   "status": "error: http 404"
+  },
+  "Milkweed Editions": {
+   "url": "https://milkweed.org/books/upcoming",
+   "status": "error: http 404"
+  },
+  "New Directions": {
+   "url": "https://www.ndbooks.com/new-forthcoming/",
+   "status": "error: http 404"
+  },
+  "NYRB / New York Review Books": {
+   "url": "https://www.nyrb.com/collections/forthcoming",
+   "status": "ok",
+   "final_url": "https://www.nyrb.com/collections/forthcoming",
+   "bytes": 1544337,
+   "jsonld_books": 0,
+   "isbn_links": 0,
+   "isbn_mentions": 51,
+   "title": "Forthcoming\n – New York Review Books",
+   "api_hints": [
+    "/search/suggest"
+   ],
+   "script_count": 24
+  },
+  "Soho Press": {
+   "url": "https://sohopress.com/forthcoming/",
+   "status": "ok",
+   "final_url": "https://sohopress.com/forthcoming-from-soho-teen/",
+   "bytes": 11748,
+   "jsonld_books": 0,
+   "isbn_links": 0,
+   "isbn_mentions": 0,
+   "title": "Forthcoming from Soho Teen - Soho Press",
+   "api_hints": [],
+   "script_count": 5
+  },
+  "Akashic Books": {
+   "url": "https://www.akashicbooks.com/forthcoming/",
+   "status": "error: http 404"
+  },
+  "Melville House": {
+   "url": "https://www.mhpbooks.com/books/forthcoming/",
+   "status": "error: http 404"
+  },
+  "Counterpoint / Catapult / Soft Skull": {
+   "url": "https://www.counterpointpress.com/forthcoming/",
+   "status": "error: http 404"
+  },
+  "Tin House": {
+   "url": "https://tinhouse.com/books/",
+   "status": "error: http 404"
+  },
+  "Two Dollar Radio": {
+   "url": "https://twodollarradio.com/collections/books",
+   "status": "error: http 404"
+  },
+  "Feminist Press": {
+   "url": "https://www.feministpress.org/forthcoming",
+   "status": "ok",
+   "final_url": "https://feministpress.org/collections/coming-soon",
+   "bytes": 162542,
+   "jsonld_books": 0,
+   "isbn_links": 10,
+   "isbn_mentions": 19,
+   "title": "Coming Soon\n– Feminist Press",
+   "api_hints": [
+    "/search/suggest"
+   ],
+   "script_count": 12
+  },
+  "Seven Stories Press": {
+   "url": "https://www.sevenstories.com/books/forthcoming",
+   "status": "ok",
+   "final_url": "https://www.sevenstories.com/",
+   "bytes": 49269,
+   "jsonld_books": 0,
+   "isbn_links": 0,
+   "isbn_mentions": 8,
+   "title": "Seven Stories Press",
+   "api_hints": [],
+   "script_count": 4
+  },
+  "Verso Books": {
+   "url": "https://www.versobooks.com/en-us/collections/coming-soon",
+   "status": "error: http 404"
+  },
+  "Haymarket Books": {
+   "url": "https://www.haymarketbooks.org/books?sort=pub_date",
+   "status": "ok",
+   "final_url": "https://www.haymarketbooks.org/books?sort=pub_date",
+   "bytes": 59918,
+   "jsonld_books": 0,
+   "isbn_links": 0,
+   "isbn_mentions": 29,
+   "title": "Books | HaymarketBooks.org",
+   "api_hints": [],
+   "script_count": 5
+  },
+  "Deep Vellum / Dalkey Archive": {
+   "url": "https://www.deepvellum.org/forthcoming",
+   "status": "error: http 404"
+  },
+  "Astra House / Astra Publishing": {
+   "url": "https://astrapublishinghouse.com/coming-soon/",
+   "status": "error: http 404"
+  },
+  "Zando": {
+   "url": "https://zandoprojects.com/books/",
+   "status": "ok",
+   "final_url": "https://zandoprojects.com/books/",
+   "bytes": 134675,
+   "jsonld_books": 0,
+   "isbn_links": 0,
+   "isbn_mentions": 12,
+   "title": "Books | Zando",
+   "api_hints": [],
+   "script_count": 2
+  },
+  "Chronicle Books": {
+   "url": "https://www.chroniclebooks.com/collections/coming-soon",
+   "status": "error: http 404"
+  },
+  "Abrams": {
+   "url": "https://www.abramsbooks.com/coming-soon/",
+   "status": "ok",
+   "final_url": "https://www.abramsbooks.com/coming-soon/",
+   "bytes": 79172,
+   "jsonld_books": 0,
+   "isbn_links": 30,
+   "isbn_mentions": 30,
+   "title": "Coming Soon |  ABRAMS",
+   "api_hints": [],
+   "script_count": 12
+  },
+  "Scholastic": {
+   "url": "https://www.scholastic.com/parents/books-and-reading/new-releases.html",
+   "status": "error: http 404"
+  },
+  "Candlewick Press": {
+   "url": "https://candlewick.com/coming-soon",
+   "status": "error: http 403"
+  },
+  "Erewhon Books": {
+   "url": "https://erewhonbooks.com/books/",
+   "status": "error: ConnectTimeout"
+  },
+  "Restless Books": {
+   "url": "https://www.restlessbooks.org/books",
+   "status": "ok",
+   "final_url": "https://restlessbooks.org/bookstore",
+   "bytes": 1453105,
+   "jsonld_books": 0,
+   "isbn_links": 0,
+   "isbn_mentions": 88,
+   "title": "Bookstore — Restless Books",
+   "api_hints": [],
+   "script_count": 17
+  }
+ },
+ "authors": {}
+}
