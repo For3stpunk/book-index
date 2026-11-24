@@ -1,0 +1,34 @@
+name: publishersarchive directory
+
+on:
+  workflow_dispatch:
+    inputs:
+      start: {description: 'first id', default: '1'}
+      end: {description: 'last id', default: '12500'}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: collect
+  cancel-in-progress: false
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    timeout-minutes: 330
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install requests beautifulsoup4
+      - run: python parchive.py "${{ github.event.inputs.start }}" "${{ github.event.inputs.end }}" 300
+      - name: Commit data
+        if: always()
+        run: |
+          git config user.name "book-index bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data
+          git commit -m "publishersarchive directory $(date -u +%F)" || echo "nothing new"
+          for i in 1 2 3; do git pull --rebase -X ours origin main && git push && break; sleep 5; done
