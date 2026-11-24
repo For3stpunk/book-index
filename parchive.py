@@ -38,8 +38,13 @@ def parse(html, pid):
     cats = []
     hdr = soup.find(string=re.compile('is listed in the following categories'))
     if hdr:
-        box = hdr.find_parent(['div', 'section']) or hdr.parent
-        cats = [a.get_text(' ', strip=True) for a in box.find_all('a') if a.get_text(strip=True)]
+        h = hdr.find_parent(['h2', 'h3', 'h4']) or hdr.parent
+        for el in h.find_all_next(['a', 'h2', 'h3', 'h4']):
+            if el.name != 'a':
+                break
+            t = el.get_text(' ', strip=True)
+            if t:
+                cats.append(t)
     return {'id': pid, 'name': name, 'address': addr, 'web': web if web.startswith('http') and 'publishersarchive' not in web else '',
             'submissions': subs if subs.startswith('http') else '', 'categories': [c for c in cats if c][:20],
             'url': f'https://publishersarchive.com/publisher/{pid}'}
