@@ -244,15 +244,20 @@ def discover():
         for path in [u.path or '/'] + CANDIDATES:
             url = root + path
             try:
-                r = get(url, tries=1, timeout=20)
+                r = get(url, tries=1, timeout=8)
                 n = len(set(ISBN13.findall(r.text)))
                 tried.append({'url': r.url, 'isbns': n, 'bytes': len(r.text)})
+                if n >= 8:
+                    break
             except Exception as e:
                 tried.append({'url': url, 'error': str(e)})
-            time.sleep(0.5)
+                if 'Timeout' in str(e) or '403' in str(e):
+                    if sum(1 for t in tried if 'error' in t) >= 3:
+                        break
+            time.sleep(0.3)
         good = sorted([t for t in tried if t.get('isbns')], key=lambda t: -t['isbns'])
         out[p['publisher']] = {'best': good[0]['url'] if good else '', 'best_isbns': good[0]['isbns'] if good else 0, 'tried': tried}
-        print('discover', p['publisher'], out[p['publisher']]['best'], out[p['publisher']]['best_isbns'])
+        print('discover', p['publisher'], out[p['publisher']]['best'], out[p['publisher']]['best_isbns'], flush=True)
     save('data/discover.json', out)
 
 
