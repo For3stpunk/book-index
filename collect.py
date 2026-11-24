@@ -303,6 +303,96 @@ def kirkus_probe():
     save('data/kirkus_probe.json', out)
 
 
+# ---------------------------------------------------------------- Book Riot (public posts)
+BR_SEARCHES = ['new books', 'new releases', 'most anticipated', 'book radar', 'out this week', 'new fantasy', 'new mystery',
+               'new romance', 'new horror', 'new nonfiction', 'new science fiction', 'new YA', 'debut']
+
+
+def isbn10_to_13(s):
+    s = re.sub(r'[^\dX]', '', s.upper())
+    if len(s) != 10:
+        return ''
+    core = '978' + s[:9]
+    tot = sum((1 if i % 2 == 0 else 3) * int(c) for i, c in enumerate(core))
+    return core + str((10 - tot % 10) % 10)
+
+
+def br_books(html, base):
+    """Books mentioned in one Book Riot post: ISBNs from buy links, title/author from the nearest heading or bold text."""
+    soup = BeautifulSoup(html, 'html.parser')
+    out, seen, seen_ctx = [], set(), set()
+    for a in soup.find_all('a', href=True):
+        h = a['href']
+        isbn = ''
+        m = ISBN13.search(h)
+        if m:
+            isbn = norm_isbn(m.group(1))
+        else:
+            m = re.search(r'amazon\.[a-z.]+/(?:[^/]+/)?(?:dp|gp/product)/(\d{9}[\dX])', h)
+            if m:
+                isbn = isbn10_to_13(m.group(1))
+        if not isbn or isbn in seen:
+            continue
+        seen.add(isbn)
+        ctx = a.find_parent(['p', 'li', 'figure', 'div']) or a
+        if id(ctx) in seen_ctx:
+            continue
+        seen_ctx.add(id(ctx))
+        head = a.find_previous(['h2', 'h3', 'h4'])
+        bold = ctx.find(['strong', 'b', 'em']) if ctx else None
+        label = (bold.get_text(' ', strip=True) if bold else '') or a.get_text(' ', strip=True) or (head.get_text(' ', strip=True) if head else '')
+        title, author = label, ''
+        m = re.match(r'(.+?)\s+by\s+(.+)$', label)
+        if m:
+            title, author = m.group(1), m.group(2)
+        out.append({'isbn': isbn, 'title': title.strip(' "“”')[:200], 'author': author.strip()[:120], 'link': h})
+    return out
+
+
+def bookriot(days=45):
+    path = 'data/bookriot/mentions.json'
+    db = {r['key']: r for r in load(path, [])}
+    after = (TODAY - dt.timedelta(days=days)).isoformat() + 'T00:00:00'
+    posts = {}
+    for q in BR_SEARCHES:
+        for page in range(1, 4):
+            url = (f'https://bookriot.com/wp-json/wp/v2/posts?search={requests.utils.quote(q)}&after={after}'
+                   f'&per_page=50&page={page}&_fields=id,date,link,title,content')
+            try:
+                r = get(url, tries=2)
+                arr = r.json()
+            except Exception as e:
+                print('bookriot', q, page, e); break
+            if not isinstance(arr, list) or not arr:
+                break
+            for p in arr:
+                posts[p['id']] = p
+            if len(arr) < 50:
+                break
+            time.sleep(0.5)
+    if not posts:  # fallback: RSS
+        try:
+            soup = BeautifulSoup(get('https://bookriot.com/feed/').text, 'xml')
+            for i, it in enumerate(soup.find_all('item')):
+                posts[f'rss{i}'] = {'date': it.pubDate.text if it.pubDate else '', 'link': it.link.text,
+                                    'title': {'rendered': it.title.text}, 'content': {'rendered': (it.find('content:encoded') or it.description).text}}
+        except Exception as e:
+            print('bookriot rss', e)
+    added = 0
+    for p in posts.values():
+        ptitle = BeautifulSoup(p['title']['rendered'], 'html.parser').get_text()
+        for b in br_books(p['content']['rendered'], p['link']):
+            key = b['isbn']
+            ment = {'post_title': ptitle, 'post_url': p['link'], 'post_date': str(p.get('date', ''))[:10]}
+            if key not in db:
+                db[key] = {'key': key, 'isbn': b['isbn'], 'title': b['title'], 'author': b['author'], 'posts': []}
+                added += 1
+            if ment['post_url'] not in [m['post_url'] for m in db[key]['posts']]:
+                db[key]['posts'].append(ment)
+    save(path, sorted(db.values(), key=lambda r: r['title']))
+    print('bookriot posts', len(posts), 'books', len(db), 'new', added)
+
+
 # ---------------------------------------------------------------- publisher + author sites
 def site_books(url, follow=2):
     """Books on a page and up to `follow` next pages."""
@@ -351,6 +441,8 @@ if __name__ == '__main__':
         probe()
     if what in ('pw', 'all'):
         pw()
+    if what in ('bookriot', 'all'):
+        bookriot()
     if what in ('publishers', 'all'):
         sites('publishers')
     if what in ('discover',):
