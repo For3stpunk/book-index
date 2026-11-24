@@ -1,0 +1,1706 @@
+{
+ "Penguin Random House": {
+  "best": "https://www.penguinrandomhouse.com/books/coming-soon/",
+  "best_isbns": 206,
+  "tried": [
+   {
+    "url": "https://www.penguinrandomhouse.com/books/coming-soon/",
+    "isbns": 206,
+    "bytes": 830855
+   }
+  ]
+ },
+ "HarperCollins": {
+  "best": "https://www.harpercollins.com/collections/coming-soon",
+  "best_isbns": 85,
+  "tried": [
+   {
+    "url": "https://www.harpercollins.com/collections/coming-soon",
+    "isbns": 85,
+    "bytes": 257452
+   }
+  ]
+ },
+ "Simon & Schuster": {
+  "best": "",
+  "best_isbns": 0,
+  "tried": [
+   {
+    "url": "https://www.simonandschuster.com/p/coming-soon",
+    "error": "http 403"
+   },
+   {
+    "url": "https://www.simonandschuster.com/coming-soon/",
+    "error": "http 403"
+   },
+   {
+    "url": "https://www.simonandschuster.com/coming-soon",
+    "error": "http 403"
+   }
+  ]
+ },
+ "Macmillan": {
+  "best": "",
+  "best_isbns": 0,
+  "tried": [
+   {
+    "url": "https://us.macmillan.com/coming-soon",
+    "error": "http 403"
+   },
+   {
+    "url": "https://us.macmillan.com/coming-soon/",
+    "error": "http 403"
+   },
+   {
+    "url": "https://us.macmillan.com/coming-soon",
+    "error": "http 403"
+   }
+  ]
+ },
+ "Hachette Book Group": {
+  "best": "https://www.hachettebookgroup.com/",
+  "best_isbns": 113,
+  "tried": [
+   {
+    "url": "https://www.hachettebookgroup.com/coming-soon/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.hachettebookgroup.com/coming-soon/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.hachettebookgroup.com/coming-soon",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.hachettebookgroup.com/forthcoming/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.hachettebookgroup.com/forthcoming",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.hachettebookgroup.com/books/forthcoming/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.hachettebookgroup.com/collections/forthcoming",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.hachettebookgroup.com/collections/coming-soon",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.hachettebookgroup.com/new-releases/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.hachettebookgroup.com/new-releases",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.hachettebookgroup.com/books/coming-soon/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.hachettebookgroup.com/upcoming/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.hachettebookgroup.com/books/upcoming",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.hachettebookgroup.com/catalog/forthcoming",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.hachettebookgroup.com/category/books/",
+    "isbns": 2,
+    "bytes": 280957
+   },
+   {
+    "url": "https://www.hachettebookgroup.com/category/books/",
+    "isbns": 2,
+    "bytes": 280957
+   },
+   {
+    "url": "https://www.hachettebookgroup.com/catalog/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.hachettebookgroup.com/new-and-upcoming/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.hachettebookgroup.com/new-forthcoming/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.hachettebookgroup.com/",
+    "isbns": 113,
+    "bytes": 523532
+   }
+  ]
+ },
+ "W. W. Norton": {
+  "best": "https://wwnorton.com/",
+  "best_isbns": 61,
+  "tried": [
+   {
+    "url": "https://wwnorton.com/books/new-and-forthcoming",
+    "isbns": 0,
+    "bytes": 19526
+   },
+   {
+    "url": "https://wwnorton.com/coming-soon/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://wwnorton.com/coming-soon",
+    "error": "http 404"
+   },
+   {
+    "url": "https://wwnorton.com/forthcoming/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://wwnorton.com/forthcoming",
+    "error": "http 404"
+   },
+   {
+    "url": "https://wwnorton.com/books/forthcoming/",
+    "isbns": 0,
+    "bytes": 19497
+   },
+   {
+    "url": "https://wwnorton.com/collections/forthcoming",
+    "error": "http 404"
+   },
+   {
+    "url": "https://wwnorton.com/collections/coming-soon",
+    "error": "http 404"
+   },
+   {
+    "url": "https://wwnorton.com/new-releases/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://wwnorton.com/new-releases",
+    "error": "http 404"
+   },
+   {
+    "url": "https://wwnorton.com/books/coming-soon/",
+    "isbns": 0,
+    "bytes": 19497
+   },
+   {
+    "url": "https://wwnorton.com/upcoming/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://wwnorton.com/books/upcoming",
+    "isbns": 0,
+    "bytes": 19482
+   },
+   {
+    "url": "https://wwnorton.com/catalog/forthcoming",
+    "isbns": 0,
+    "bytes": 38986
+   },
+   {
+    "url": "https://wwnorton.com/books/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://wwnorton.com:443/catalog",
+    "isbns": 0,
+    "bytes": 38891
+   },
+   {
+    "url": "https://wwnorton.com/catalog/",
+    "isbns": 0,
+    "bytes": 38894
+   },
+   {
+    "url": "https://wwnorton.com/new-and-upcoming/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://wwnorton.com/new-forthcoming/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://wwnorton.com/",
+    "isbns": 61,
+    "bytes": 73768
+   }
+  ]
+ },
+ "Grove Atlantic": {
+  "best": "https://groveatlantic.com/books/",
+  "best_isbns": 9,
+  "tried": [
+   {
+    "url": "https://groveatlantic.com/upcoming-titles/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://groveatlantic.com/coming-soon/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://groveatlantic.com/coming-soon",
+    "error": "http 404"
+   },
+   {
+    "url": "https://groveatlantic.com/forthcoming/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://groveatlantic.com/forthcoming",
+    "error": "http 404"
+   },
+   {
+    "url": "https://groveatlantic.com/books/forthcoming/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://groveatlantic.com/collections/forthcoming",
+    "error": "http 404"
+   },
+   {
+    "url": "https://groveatlantic.com/collections/coming-soon",
+    "error": "http 404"
+   },
+   {
+    "url": "https://groveatlantic.com/new-releases/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://groveatlantic.com/new-releases",
+    "error": "http 404"
+   },
+   {
+    "url": "https://groveatlantic.com/books/coming-soon/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://groveatlantic.com/upcoming/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://groveatlantic.com/books/upcoming",
+    "error": "http 404"
+   },
+   {
+    "url": "https://groveatlantic.com/catalog/forthcoming",
+    "error": "http 404"
+   },
+   {
+    "url": "https://groveatlantic.com/books/",
+    "isbns": 9,
+    "bytes": 219219
+   }
+  ]
+ },
+ "Graywolf Press": {
+  "best": "",
+  "best_isbns": 0,
+  "tried": [
+   {
+    "url": "https://www.graywolfpress.org/books/forthcoming",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.graywolfpress.org/coming-soon/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.graywolfpress.org/coming-soon",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.graywolfpress.org/forthcoming/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.graywolfpress.org/forthcoming",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.graywolfpress.org/books/forthcoming/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.graywolfpress.org/collections/forthcoming",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.graywolfpress.org/collections/coming-soon",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.graywolfpress.org/new-releases/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.graywolfpress.org/new-releases",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.graywolfpress.org/books/coming-soon/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.graywolfpress.org/upcoming/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.graywolfpress.org/books/upcoming",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.graywolfpress.org/catalog/forthcoming",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.graywolfpress.org/books/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.graywolfpress.org/books",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.graywolfpress.org/catalog/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.graywolfpress.org/new-and-upcoming/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.graywolfpress.org/new-forthcoming/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://graywolfpress.org/",
+    "isbns": 0,
+    "bytes": 164955
+   }
+  ]
+ },
+ "Bloomsbury USA": {
+  "best": "",
+  "best_isbns": 0,
+  "tried": [
+   {
+    "url": "https://www.bloomsbury.com/us/new-releases/",
+    "error": "http 403"
+   },
+   {
+    "url": "https://www.bloomsbury.com/coming-soon/",
+    "error": "http 403"
+   },
+   {
+    "url": "https://www.bloomsbury.com/coming-soon",
+    "error": "http 403"
+   }
+  ]
+ },
+ "Sourcebooks": {
+  "best": "",
+  "best_isbns": 0,
+  "tried": [
+   {
+    "url": "https://www.sourcebooks.com/new-releases.html",
+    "error": "http 406"
+   },
+   {
+    "url": "https://www.sourcebooks.com/coming-soon/",
+    "error": "http 406"
+   },
+   {
+    "url": "https://www.sourcebooks.com/coming-soon",
+    "error": "http 406"
+   },
+   {
+    "url": "https://www.sourcebooks.com/forthcoming/",
+    "error": "http 406"
+   },
+   {
+    "url": "https://www.sourcebooks.com/forthcoming",
+    "error": "http 406"
+   },
+   {
+    "url": "https://www.sourcebooks.com/books/forthcoming/",
+    "error": "http 406"
+   },
+   {
+    "url": "https://www.sourcebooks.com/collections/forthcoming",
+    "error": "http 406"
+   },
+   {
+    "url": "https://www.sourcebooks.com/collections/coming-soon",
+    "error": "http 406"
+   },
+   {
+    "url": "https://www.sourcebooks.com/new-releases/",
+    "error": "http 406"
+   },
+   {
+    "url": "https://www.sourcebooks.com/new-releases",
+    "error": "http 406"
+   },
+   {
+    "url": "https://www.sourcebooks.com/books/coming-soon/",
+    "error": "http 406"
+   },
+   {
+    "url": "https://www.sourcebooks.com/upcoming/",
+    "error": "http 406"
+   },
+   {
+    "url": "https://www.sourcebooks.com/books/upcoming",
+    "error": "http 406"
+   },
+   {
+    "url": "https://www.sourcebooks.com/catalog/forthcoming",
+    "error": "http 406"
+   },
+   {
+    "url": "https://www.sourcebooks.com/books/",
+    "error": "http 406"
+   },
+   {
+    "url": "https://www.sourcebooks.com/books",
+    "error": "http 406"
+   },
+   {
+    "url": "https://www.sourcebooks.com/catalog/",
+    "error": "http 406"
+   },
+   {
+    "url": "https://www.sourcebooks.com/new-and-upcoming/",
+    "error": "http 406"
+   },
+   {
+    "url": "https://www.sourcebooks.com/new-forthcoming/",
+    "error": "http 406"
+   },
+   {
+    "url": "https://www.sourcebooks.com/",
+    "error": "http 406"
+   }
+  ]
+ },
+ "Kensington": {
+  "best": "",
+  "best_isbns": 0,
+  "tried": [
+   {
+    "url": "https://www.kensingtonbooks.com/new-releases",
+    "error": "http 403"
+   },
+   {
+    "url": "https://www.kensingtonbooks.com/coming-soon/",
+    "error": "http 403"
+   },
+   {
+    "url": "https://www.kensingtonbooks.com/coming-soon",
+    "error": "http 403"
+   }
+  ]
+ },
+ "Europa Editions": {
+  "best": "https://www.europaeditions.com/",
+  "best_isbns": 26,
+  "tried": [
+   {
+    "url": "https://www.europaeditions.com/books/forthcoming",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.europaeditions.com/coming-soon/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.europaeditions.com/coming-soon",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.europaeditions.com/forthcoming/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.europaeditions.com/forthcoming",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.europaeditions.com/books/forthcoming/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.europaeditions.com/collections/forthcoming",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.europaeditions.com/collections/coming-soon",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.europaeditions.com/new-releases/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.europaeditions.com/new-releases",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.europaeditions.com/books/coming-soon/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.europaeditions.com/upcoming/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.europaeditions.com/books/upcoming",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.europaeditions.com/catalog/forthcoming",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.europaeditions.com/books/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.europaeditions.com/books",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.europaeditions.com/catalog/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.europaeditions.com/new-and-upcoming/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.europaeditions.com/new-forthcoming/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.europaeditions.com/",
+    "isbns": 26,
+    "bytes": 481403
+   }
+  ]
+ },
+ "Coffee House Press": {
+  "best": "https://coffeehousepress.org/",
+  "best_isbns": 12,
+  "tried": [
+   {
+    "url": "https://coffeehousepress.org/collections/forthcoming",
+    "error": "http 404"
+   },
+   {
+    "url": "https://coffeehousepress.org/coming-soon/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://coffeehousepress.org/coming-soon",
+    "error": "http 404"
+   },
+   {
+    "url": "https://coffeehousepress.org/forthcoming/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://coffeehousepress.org/forthcoming",
+    "error": "http 404"
+   },
+   {
+    "url": "https://coffeehousepress.org/books/forthcoming/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://coffeehousepress.org/collections/forthcoming",
+    "error": "http 404"
+   },
+   {
+    "url": "https://coffeehousepress.org/collections/coming-soon",
+    "error": "http 404"
+   },
+   {
+    "url": "https://coffeehousepress.org/new-releases/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://coffeehousepress.org/new-releases",
+    "error": "http 404"
+   },
+   {
+    "url": "https://coffeehousepress.org/books/coming-soon/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://coffeehousepress.org/upcoming/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://coffeehousepress.org/books/upcoming",
+    "error": "http 404"
+   },
+   {
+    "url": "https://coffeehousepress.org/catalog/forthcoming",
+    "error": "http 404"
+   },
+   {
+    "url": "https://coffeehousepress.org/books/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://coffeehousepress.org/books",
+    "error": "http 404"
+   },
+   {
+    "url": "https://coffeehousepress.org/catalog/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://coffeehousepress.org/new-and-upcoming/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://coffeehousepress.org/new-forthcoming/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://coffeehousepress.org/",
+    "isbns": 12,
+    "bytes": 621689
+   }
+  ]
+ },
+ "Milkweed Editions": {
+  "best": "https://milkweed.org/books",
+  "best_isbns": 2,
+  "tried": [
+   {
+    "url": "https://milkweed.org/books/upcoming",
+    "error": "http 404"
+   },
+   {
+    "url": "https://milkweed.org/coming-soon/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://milkweed.org/coming-soon",
+    "error": "http 404"
+   },
+   {
+    "url": "https://milkweed.org/forthcoming/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://milkweed.org/forthcoming",
+    "error": "http 404"
+   },
+   {
+    "url": "https://milkweed.org/books/forthcoming/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://milkweed.org/collections/forthcoming",
+    "error": "http 404"
+   },
+   {
+    "url": "https://milkweed.org/collections/coming-soon",
+    "error": "http 404"
+   },
+   {
+    "url": "https://milkweed.org/new-releases/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://milkweed.org/new-releases",
+    "error": "http 404"
+   },
+   {
+    "url": "https://milkweed.org/books/coming-soon",
+    "isbns": 0,
+    "bytes": 55419
+   },
+   {
+    "url": "https://milkweed.org/upcoming/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://milkweed.org/books/upcoming",
+    "error": "http 404"
+   },
+   {
+    "url": "https://milkweed.org/catalog/forthcoming",
+    "error": "http 404"
+   },
+   {
+    "url": "https://milkweed.org/books",
+    "isbns": 2,
+    "bytes": 96892
+   },
+   {
+    "url": "https://milkweed.org/books",
+    "error": "http 403"
+   }
+  ]
+ },
+ "New Directions": {
+  "best": "https://www.ndbooks.com/books/",
+  "best_isbns": 113,
+  "tried": [
+   {
+    "url": "https://www.ndbooks.com/new-forthcoming/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.ndbooks.com/coming-soon/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.ndbooks.com/coming-soon",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.ndbooks.com/forthcoming/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.ndbooks.com/forthcoming",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.ndbooks.com/books/forthcoming/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.ndbooks.com/collections/forthcoming",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.ndbooks.com/collections/coming-soon",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.ndbooks.com/new-releases/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.ndbooks.com/new-releases",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.ndbooks.com/books/coming-soon/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.ndbooks.com/upcoming/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.ndbooks.com/books/upcoming",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.ndbooks.com/catalog/forthcoming",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.ndbooks.com/books/",
+    "isbns": 113,
+    "bytes": 291425
+   }
+  ]
+ },
+ "NYRB / New York Review Books": {
+  "best": "https://www.nyrb.com/collections/forthcoming",
+  "best_isbns": 51,
+  "tried": [
+   {
+    "url": "https://www.nyrb.com/collections/forthcoming",
+    "isbns": 51,
+    "bytes": 1544319
+   }
+  ]
+ },
+ "Soho Press": {
+  "best": "",
+  "best_isbns": 0,
+  "tried": [
+   {
+    "url": "https://sohopress.com/forthcoming-from-soho-teen/",
+    "isbns": 0,
+    "bytes": 11748
+   },
+   {
+    "url": "https://sohopress.com/coming-soon/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://sohopress.com/coming-soon",
+    "error": "http 404"
+   },
+   {
+    "url": "https://sohopress.com/forthcoming-from-soho-teen/",
+    "isbns": 0,
+    "bytes": 11748
+   },
+   {
+    "url": "https://sohopress.com/forthcoming-from-soho-teen/",
+    "isbns": 0,
+    "bytes": 11748
+   },
+   {
+    "url": "https://sohopress.com/books/forthcoming/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://sohopress.com/forthcoming-from-soho-teen/",
+    "isbns": 0,
+    "bytes": 11748
+   },
+   {
+    "url": "https://sohopress.com/collections/coming-soon",
+    "error": "http 404"
+   },
+   {
+    "url": "https://sohopress.com/new-releases/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://sohopress.com/new-releases",
+    "error": "http 404"
+   },
+   {
+    "url": "https://sohopress.com/books/coming-soon/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://sohopress.com/upcoming/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://sohopress.com/books/upcoming",
+    "error": "http 404"
+   },
+   {
+    "url": "https://sohopress.com/forthcoming-from-soho-teen/",
+    "isbns": 0,
+    "bytes": 11748
+   },
+   {
+    "url": "https://sohopress.com/media/books-and-bookmen-magazine/",
+    "isbns": 0,
+    "bytes": 13030
+   },
+   {
+    "url": "https://sohopress.com/media/books-and-bookmen-magazine/",
+    "isbns": 0,
+    "bytes": 13030
+   },
+   {
+    "url": "https://sohopress.com/catalog/",
+    "isbns": 0,
+    "bytes": 10956
+   },
+   {
+    "url": "https://sohopress.com/new-and-upcoming/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://sohopress.com/new-forthcoming/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://sohopress.com/",
+    "isbns": 0,
+    "bytes": 21312
+   }
+  ]
+ },
+ "Akashic Books": {
+  "best": "https://www.akashicbooks.com/",
+  "best_isbns": 8,
+  "tried": [
+   {
+    "url": "https://www.akashicbooks.com/forthcoming/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.akashicbooks.com/coming-soon/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.akashicbooks.com/coming-soon",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.akashicbooks.com/forthcoming/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.akashicbooks.com/forthcoming",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.akashicbooks.com/books/forthcoming/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.akashicbooks.com/collections/forthcoming",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.akashicbooks.com/collections/coming-soon",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.akashicbooks.com/new-releases/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.akashicbooks.com/new-releases",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.akashicbooks.com/books/coming-soon/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.akashicbooks.com/upcoming/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.akashicbooks.com/books/upcoming",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.akashicbooks.com/catalog/forthcoming",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.akashicbooks.com/books-books-a-great-local-bookseller/",
+    "isbns": 0,
+    "bytes": 88083
+   },
+   {
+    "url": "https://www.akashicbooks.com/books-books-a-great-local-bookseller/",
+    "isbns": 0,
+    "bytes": 88083
+   },
+   {
+    "url": "https://www.akashicbooks.com/catalog/",
+    "isbns": 0,
+    "bytes": 88273
+   },
+   {
+    "url": "https://www.akashicbooks.com/new-and-upcoming/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.akashicbooks.com/new-forthcoming/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.akashicbooks.com/",
+    "isbns": 8,
+    "bytes": 100129
+   }
+  ]
+ },
+ "Melville House": {
+  "best": "https://mhpbooks.com/books/",
+  "best_isbns": 69,
+  "tried": [
+   {
+    "url": "https://www.mhpbooks.com/books/forthcoming/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.mhpbooks.com/coming-soon/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.mhpbooks.com/coming-soon",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.mhpbooks.com/forthcoming/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.mhpbooks.com/forthcoming",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.mhpbooks.com/books/forthcoming/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.mhpbooks.com/collections/forthcoming",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.mhpbooks.com/collections/coming-soon",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.mhpbooks.com/new-releases/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.mhpbooks.com/new-releases",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.mhpbooks.com/books/coming-soon/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.mhpbooks.com/upcoming/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.mhpbooks.com/books/upcoming",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.mhpbooks.com/catalog/forthcoming",
+    "error": "http 404"
+   },
+   {
+    "url": "https://mhpbooks.com/books/",
+    "isbns": 69,
+    "bytes": 121835
+   }
+  ]
+ },
+ "Counterpoint / Catapult / Soft Skull": {
+  "best": "https://www.counterpointpress.com/books/",
+  "best_isbns": 12,
+  "tried": [
+   {
+    "url": "https://www.counterpointpress.com/forthcoming/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.counterpointpress.com/coming-soon/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.counterpointpress.com/coming-soon",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.counterpointpress.com/forthcoming/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.counterpointpress.com/forthcoming",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.counterpointpress.com/books/forthcoming/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.counterpointpress.com/collections/forthcoming",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.counterpointpress.com/collections/coming-soon",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.counterpointpress.com/new-releases/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.counterpointpress.com/new-releases",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.counterpointpress.com/books/coming-soon/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.counterpointpress.com/upcoming-events/",
+    "isbns": 0,
+    "bytes": 33155
+   },
+   {
+    "url": "https://www.counterpointpress.com/books/upcoming",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.counterpointpress.com/catalog/forthcoming",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.counterpointpress.com/books/",
+    "isbns": 12,
+    "bytes": 146836
+   }
+  ]
+ },
+ "Tin House": {
+  "best": "https://zandoprojects.com/imprints/tin-house",
+  "best_isbns": 16,
+  "tried": [
+   {
+    "url": "https://tinhouse.com/books/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://tinhouse.com/coming-soon/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://tinhouse.com/coming-soon",
+    "error": "http 404"
+   },
+   {
+    "url": "https://tinhouse.com/forthcoming/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://tinhouse.com/forthcoming",
+    "error": "http 404"
+   },
+   {
+    "url": "https://tinhouse.com/books/forthcoming/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://tinhouse.com/collections/forthcoming",
+    "error": "http 404"
+   },
+   {
+    "url": "https://tinhouse.com/collections/coming-soon",
+    "error": "http 404"
+   },
+   {
+    "url": "https://tinhouse.com/new-releases/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://tinhouse.com/new-releases",
+    "error": "http 404"
+   },
+   {
+    "url": "https://tinhouse.com/books/coming-soon/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://tinhouse.com/upcoming/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://tinhouse.com/books/upcoming",
+    "error": "http 404"
+   },
+   {
+    "url": "https://tinhouse.com/catalog/forthcoming",
+    "error": "http 404"
+   },
+   {
+    "url": "https://tinhouse.com/books/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://tinhouse.com/books",
+    "error": "http 404"
+   },
+   {
+    "url": "https://tinhouse.com/catalog/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://tinhouse.com/new-and-upcoming/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://tinhouse.com/new-forthcoming/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://zandoprojects.com/imprints/tin-house",
+    "isbns": 16,
+    "bytes": 109960
+   }
+  ]
+ },
+ "Two Dollar Radio": {
+  "best": "https://twodollarradio.com/collections/forthcoming",
+  "best_isbns": 11,
+  "tried": [
+   {
+    "url": "https://twodollarradio.com/collections/books",
+    "error": "http 404"
+   },
+   {
+    "url": "https://twodollarradio.com/coming-soon/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://twodollarradio.com/coming-soon",
+    "error": "http 404"
+   },
+   {
+    "url": "https://twodollarradio.com/forthcoming/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://twodollarradio.com/forthcoming",
+    "error": "http 404"
+   },
+   {
+    "url": "https://twodollarradio.com/books/forthcoming/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://twodollarradio.com/collections/forthcoming",
+    "isbns": 11,
+    "bytes": 437276
+   }
+  ]
+ },
+ "Feminist Press": {
+  "best": "https://feministpress.org/collections/coming-soon",
+  "best_isbns": 19,
+  "tried": [
+   {
+    "url": "https://feministpress.org/collections/coming-soon",
+    "isbns": 19,
+    "bytes": 162542
+   }
+  ]
+ },
+ "Seven Stories Press": {
+  "best": "https://www.sevenstories.com/",
+  "best_isbns": 8,
+  "tried": [
+   {
+    "url": "https://www.sevenstories.com/",
+    "isbns": 8,
+    "bytes": 49269
+   }
+  ]
+ },
+ "Verso Books": {
+  "best": "https://www.versobooks.com/collections/forthcoming",
+  "best_isbns": 75,
+  "tried": [
+   {
+    "url": "https://www.versobooks.com/en-us/collections/coming-soon",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.versobooks.com/coming-soon/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.versobooks.com/coming-soon",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.versobooks.com/forthcoming/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.versobooks.com/forthcoming",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.versobooks.com/books/forthcoming/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.versobooks.com/collections/forthcoming",
+    "isbns": 75,
+    "bytes": 218883
+   }
+  ]
+ },
+ "Haymarket Books": {
+  "best": "https://www.haymarketbooks.org/books",
+  "best_isbns": 29,
+  "tried": [
+   {
+    "url": "https://www.haymarketbooks.org/books",
+    "isbns": 29,
+    "bytes": 59706
+   }
+  ]
+ },
+ "Deep Vellum / Dalkey Archive": {
+  "best": "",
+  "best_isbns": 0,
+  "tried": [
+   {
+    "url": "https://www.deepvellum.org/forthcoming",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.deepvellum.org/coming-soon/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.deepvellum.org/coming-soon",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.deepvellum.org/forthcoming/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.deepvellum.org/forthcoming",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.deepvellum.org/books/forthcoming/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.deepvellum.org/collections/forthcoming",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.deepvellum.org/collections/coming-soon",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.deepvellum.org/new-releases/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.deepvellum.org/new-releases",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.deepvellum.org/books/coming-soon/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.deepvellum.org/upcoming/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.deepvellum.org/books/upcoming",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.deepvellum.org/catalog/forthcoming",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.deepvellum.org/books/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.deepvellum.org/books",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.deepvellum.org/catalog/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.deepvellum.org/new-and-upcoming/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.deepvellum.org/new-forthcoming/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.deepvellum.org/",
+    "isbns": 0,
+    "bytes": 166638
+   }
+  ]
+ },
+ "Astra House / Astra Publishing": {
+  "best": "https://astrapublishinghouse.com/books/",
+  "best_isbns": 11,
+  "tried": [
+   {
+    "url": "https://astrapublishinghouse.com/coming-soon/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://astrapublishinghouse.com/coming-soon/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://astrapublishinghouse.com/coming-soon",
+    "error": "http 404"
+   },
+   {
+    "url": "https://astrapublishinghouse.com/forthcoming/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://astrapublishinghouse.com/forthcoming",
+    "error": "http 404"
+   },
+   {
+    "url": "https://astrapublishinghouse.com/books/forthcoming/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://astrapublishinghouse.com/collections/forthcoming",
+    "error": "http 404"
+   },
+   {
+    "url": "https://astrapublishinghouse.com/collections/coming-soon",
+    "error": "http 404"
+   },
+   {
+    "url": "https://astrapublishinghouse.com/new-releases/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://astrapublishinghouse.com/new-releases",
+    "error": "http 404"
+   },
+   {
+    "url": "https://astrapublishinghouse.com/books/coming-soon/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://astrapublishinghouse.com/upcoming/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://astrapublishinghouse.com/books/upcoming",
+    "error": "http 404"
+   },
+   {
+    "url": "https://astrapublishinghouse.com/catalog/forthcoming",
+    "error": "http 404"
+   },
+   {
+    "url": "https://astrapublishinghouse.com/books/",
+    "isbns": 11,
+    "bytes": 139516
+   }
+  ]
+ },
+ "Zando": {
+  "best": "https://zandoprojects.com/books/",
+  "best_isbns": 12,
+  "tried": [
+   {
+    "url": "https://zandoprojects.com/books/",
+    "isbns": 12,
+    "bytes": 134675
+   }
+  ]
+ },
+ "Chronicle Books": {
+  "best": "https://www.chroniclebooks.com/collections/new",
+  "best_isbns": 67,
+  "tried": [
+   {
+    "url": "https://www.chroniclebooks.com/collections/coming-soon",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.chroniclebooks.com/coming-soon/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.chroniclebooks.com/coming-soon",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.chroniclebooks.com/forthcoming/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.chroniclebooks.com/forthcoming",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.chroniclebooks.com/books/forthcoming/",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.chroniclebooks.com/collections/forthcoming",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.chroniclebooks.com/collections/coming-soon",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.chroniclebooks.com/collections/new",
+    "isbns": 67,
+    "bytes": 374719
+   }
+  ]
+ },
+ "Abrams": {
+  "best": "",
+  "best_isbns": 0,
+  "tried": [
+   {
+    "url": "https://www.abramsbooks.com/coming-soon/",
+    "error": "ConnectTimeout"
+   },
+   {
+    "url": "https://www.abramsbooks.com/coming-soon/",
+    "error": "ConnectTimeout"
+   },
+   {
+    "url": "https://www.abramsbooks.com/coming-soon",
+    "error": "ConnectTimeout"
+   }
+  ]
+ },
+ "Scholastic": {
+  "best": "https://shop.scholastic.com/parent-ecommerce/featured-shops/back-to-school.html?eml=sso/stbpostcard/2025/bts/",
+  "best_isbns": 9,
+  "tried": [
+   {
+    "url": "https://www.scholastic.com/parents/books-and-reading/new-releases.html",
+    "error": "http 404"
+   },
+   {
+    "url": "https://www.scholastic.com/coming-soon/index.html",
+    "isbns": 0,
+    "bytes": 3322
+   },
+   {
+    "url": "https://www.scholastic.com/coming-soon/index.html",
+    "isbns": 0,
+    "bytes": 3322
+   },
+   {
+    "url": "https://www.scholastic.com/forthcoming/index.html",
+    "isbns": 0,
+    "bytes": 3322
+   },
+   {
+    "url": "https://www.scholastic.com/forthcoming/index.html",
+    "isbns": 0,
+    "bytes": 3322
+   },
+   {
+    "url": "https://www.scholastic.com/books/forthcoming/index.html",
+    "isbns": 0,
+    "bytes": 3322
+   },
+   {
+    "url": "https://www.scholastic.com/collections/forthcoming/index.html",
+    "isbns": 0,
+    "bytes": 3322
+   },
+   {
+    "url": "https://www.scholastic.com/collections/coming-soon/index.html",
+    "isbns": 0,
+    "bytes": 3322
+   },
+   {
+    "url": "https://www.scholastic.com/new-releases/index.html",
+    "isbns": 0,
+    "bytes": 3322
+   },
+   {
+    "url": "https://www.scholastic.com/new-releases/index.html",
+    "isbns": 0,
+    "bytes": 3322
+   },
+   {
+    "url": "https://www.scholastic.com/books/coming-soon/index.html",
+    "isbns": 0,
+    "bytes": 3322
+   },
+   {
+    "url": "https://www.scholastic.com/upcoming/index.html",
+    "isbns": 0,
+    "bytes": 3322
+   },
+   {
+    "url": "https://www.scholastic.com/books/upcoming/index.html",
+    "isbns": 0,
+    "bytes": 3322
+   },
+   {
+    "url": "https://www.scholastic.com/catalog/forthcoming/index.html",
+    "isbns": 0,
+    "bytes": 3322
+   },
+   {
+    "url": "https://shop.scholastic.com/parent-ecommerce/featured-shops/back-to-school.html?eml=sso/stbpostcard/2025/bts/",
+    "isbns": 9,
+    "bytes": 222622
+   }
+  ]
+ },
+ "Candlewick Press": {
+  "best": "",
+  "best_isbns": 0,
+  "tried": [
+   {
+    "url": "https://candlewick.com/coming-soon",
+    "error": "http 403"
+   },
+   {
+    "url": "https://candlewick.com/coming-soon/",
+    "error": "http 403"
+   },
+   {
+    "url": "https://candlewick.com/coming-soon",
+    "error": "http 403"
+   }
+  ]
+ },
+ "Erewhon Books": {
+  "best": "",
+  "best_isbns": 0,
+  "tried": [
+   {
+    "url": "https://erewhonbooks.com/books/",
+    "error": "ConnectTimeout"
+   },
+   {
+    "url": "https://erewhonbooks.com/coming-soon/",
+    "error": "ConnectTimeout"
+   },
+   {
+    "url": "https://erewhonbooks.com/coming-soon",
+    "error": "ConnectTimeout"
+   }
+  ]
+ },
+ "Restless Books": {
+  "best": "https://restlessbooks.org/bookstore",
+  "best_isbns": 88,
+  "tried": [
+   {
+    "url": "https://restlessbooks.org/bookstore",
+    "isbns": 88,
+    "bytes": 1453105
+   }
+  ]
+ }
+}
