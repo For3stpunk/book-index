@@ -23,7 +23,6 @@ jobs:
         with:
           python-version: '3.12'
       - run: pip install requests beautifulsoup4
-      - run: python parchive.py debug 12368
       - run: python parchive.py "${{ github.event.inputs.start }}" "${{ github.event.inputs.end }}" 300
       - name: Commit data
         if: always()

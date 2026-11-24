@@ -21,8 +21,8 @@ def label_link(soup, label):
 
 def parse(html, pid):
     soup = BeautifulSoup(html, 'html.parser')
-    h1 = soup.find('h1')
-    name = h1.get_text(' ', strip=True) if h1 else ''
+    t = soup.title.string if soup.title and soup.title.string else ''
+    name = re.sub(r'\s*Book Publisher Profile.*$', '', t).strip()
     if not name:
         return None
     text = soup.get_text('\n', strip=True)
