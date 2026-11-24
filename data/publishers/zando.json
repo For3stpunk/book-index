@@ -2,5 +2,90 @@
  "name": "Zando",
  "url": "https://zandoprojects.com/books/",
  "checked": "2026-11-24",
- "books": []
+ "books": [
+  {
+   "title": "A Cat",
+   "author": "",
+   "isbn": "9781947793071",
+   "date": "",
+   "url": "https://zandoprojects.com/books/a-cat"
+  },
+  {
+   "title": "A Deal in Death",
+   "author": "",
+   "isbn": "9781638932567",
+   "date": "",
+   "url": "https://zandoprojects.com/books/untitled-immortal-desires-series-book-2"
+  },
+  {
+   "title": "A Fortune for Your Disaster",
+   "author": "",
+   "isbn": "9781947793439",
+   "date": "",
+   "url": "https://zandoprojects.com/books/a-fortune-for-your-disaster"
+  },
+  {
+   "title": "A Girl Is A Body of Water",
+   "author": "",
+   "isbn": "9781951142551",
+   "date": "",
+   "url": "https://zandoprojects.com/books/a-girl-is-a-body-of-water"
+  },
+  {
+   "title": "A Hanging at Cinder Bottom",
+   "author": "",
+   "isbn": "9781941040096",
+   "date": "",
+   "url": "https://zandoprojects.com/books/a-hanging-at-cinder-bottom"
+  },
+  {
+   "title": "A Householder's Guide to the Universe",
+   "author": "",
+   "isbn": "9780982569153",
+   "date": "",
+   "url": "https://zandoprojects.com/books/a-householders-guide-to-the-universe"
+  },
+  {
+   "title": "A Key to Treehouse Living",
+   "author": "",
+   "isbn": "9781947793590",
+   "date": "",
+   "url": "https://zandoprojects.com/books/a-key-to-treehouse-living"
+  },
+  {
+   "title": "A Kind of Madness",
+   "author": "",
+   "isbn": "9781959030386",
+   "date": "",
+   "url": "https://zandoprojects.com/books/a-kind-of-madness"
+  },
+  {
+   "title": "A Pros and Cons List for Strong Feelings",
+   "author": "",
+   "isbn": "9781953534453",
+   "date": "",
+   "url": "https://zandoprojects.com/books/a-pros-and-cons-list-for-strong-feelings"
+  },
+  {
+   "title": "A Quitter's Paradise",
+   "author": "",
+   "isbn": "9781638931614",
+   "date": "",
+   "url": "https://zandoprojects.com/books/a-quitters-paradise"
+  },
+  {
+   "title": "A Sand Book",
+   "author": "",
+   "isbn": "9781951142162",
+   "date": "",
+   "url": "https://zandoprojects.com/books/a-sand-book"
+  },
+  {
+   "title": "A Silent Treatment",
+   "author": "",
+   "isbn": "9781963108453",
+   "date": "",
+   "url": "https://zandoprojects.com/books/a-silent-treatment"
+  }
+ ]
 }

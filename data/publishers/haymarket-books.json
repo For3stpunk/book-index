@@ -2,5 +2,531 @@
  "name": "Haymarket Books",
  "url": "https://www.haymarketbooks.org/books",
  "checked": "2026-11-24",
- "books": []
+ "books": [
+  {
+   "title": "How to Close a Camp",
+   "author": "",
+   "isbn": "9798888908167",
+   "date": "",
+   "url": "https://www.haymarketbooks.org/books/2880-how-to-close-a-camp"
+  },
+  {
+   "title": "Perfect Victims",
+   "author": "",
+   "isbn": "9798888903155",
+   "date": "",
+   "url": "https://www.haymarketbooks.org/books/2499-perfect-victims"
+  },
+  {
+   "title": "Let This Radicalize You",
+   "author": "",
+   "isbn": "9781642598278",
+   "date": "",
+   "url": "https://www.haymarketbooks.org/books/1922-let-this-radicalize-you"
+  },
+  {
+   "title": "Freedom Is a Constant Struggle",
+   "author": "",
+   "isbn": "9781608465644",
+   "date": "",
+   "url": "https://www.haymarketbooks.org/books/780-freedom-is-a-constant-struggle"
+  },
+  {
+   "title": "Black History Is for Everyone",
+   "author": "",
+   "isbn": "9798888904473",
+   "date": "",
+   "url": "https://www.haymarketbooks.org/books/2605-black-history-is-for-everyone"
+  },
+  {
+   "title": "Theory of Water",
+   "author": "",
+   "isbn": "9798888903681",
+   "date": "",
+   "url": "https://www.haymarketbooks.org/books/2533-theory-of-water"
+  },
+  {
+   "title": "Detroit: I Do Mind Dying",
+   "author": "",
+   "isbn": "9798888909614",
+   "date": "",
+   "url": "https://www.haymarketbooks.org/books/2935-detroit-i-do-mind-dying"
+  },
+  {
+   "title": "Post-Disaster Futures",
+   "author": "",
+   "isbn": "9798888907412",
+   "date": "",
+   "url": "https://www.haymarketbooks.org/books/2850-post-disaster-futures"
+  },
+  {
+   "title": "Join the Haymarket Book Club to take 50% off all the books on our site!",
+   "author": "",
+   "isbn": "9798888907429",
+   "date": "",
+   "url": "https://www.haymarketbooks.org/bookclub"
+  },
+  {
+   "title": "Join the Haymarket Book Club to take 50% off all the books on our site!",
+   "author": "",
+   "isbn": "9798888906583",
+   "date": "",
+   "url": "https://www.haymarketbooks.org/bookclub"
+  },
+  {
+   "title": "Anatomy of Disintegration",
+   "author": "",
+   "isbn": "9798888908235",
+   "date": "",
+   "url": "https://www.haymarketbooks.org/books/2881-anatomy-of-disintegration"
+  },
+  {
+   "title": "Twelve Days That Shook the Middle East",
+   "author": "",
+   "isbn": "9798903931453",
+   "date": "",
+   "url": "https://www.haymarketbooks.org/books/2970-twelve-days-that-shook-the-middle-east"
+  },
+  {
+   "title": "How to Save Science",
+   "author": "",
+   "isbn": "9798993749457",
+   "date": "",
+   "url": "https://www.haymarketbooks.org/books/3034-how-to-save-science"
+  },
+  {
+   "title": "Against Tech Oligarchy",
+   "author": "",
+   "isbn": "9798888908570",
+   "date": "",
+   "url": "https://www.haymarketbooks.org/books/2858-against-tech-oligarchy"
+  },
+  {
+   "title": "Bad Energy",
+   "author": "",
+   "isbn": "9798888906071",
+   "date": "",
+   "url": "https://www.haymarketbooks.org/books/2772-bad-energy"
+  },
+  {
+   "title": "Songs My Mother Taught Me",
+   "author": "",
+   "isbn": "9798888905845",
+   "date": "",
+   "url": "https://www.haymarketbooks.org/books/2876-songs-my-mother-taught-me"
+  },
+  {
+   "title": "This Is How We Win",
+   "author": "",
+   "isbn": "9798903931477",
+   "date": "",
+   "url": "https://www.haymarketbooks.org/books/2966-this-is-how-we-win"
+  },
+  {
+   "title": "Radical Mothering",
+   "author": "",
+   "isbn": "9798888908822",
+   "date": "",
+   "url": "https://www.haymarketbooks.org/books/2845-radical-mothering"
+  },
+  {
+   "title": "The Antiracist Theatre",
+   "author": "",
+   "isbn": "9798888906026",
+   "date": "",
+   "url": "https://www.haymarketbooks.org/books/2761-the-antiracist-theatre"
+  },
+  {
+   "title": "Unsafe",
+   "author": "",
+   "isbn": "9798888906064",
+   "date": "",
+   "url": "https://www.haymarketbooks.org/books/2765-unsafe"
+  },
+  {
+   "title": "SNCC",
+   "author": "",
+   "isbn": "9798888906040",
+   "date": "",
+   "url": "https://www.haymarketbooks.org/books/2740-sncc"
+  },
+  {
+   "title": "Harm and Punishment",
+   "author": "",
+   "isbn": "9798888906033",
+   "date": "",
+   "url": "https://www.haymarketbooks.org/books/2763-harm-and-punishment"
+  },
+  {
+   "title": "Tending to Our Wounds",
+   "author": "",
+   "isbn": "9798888905951",
+   "date": "",
+   "url": "https://www.haymarketbooks.org/books/2756-tending-to-our-wounds"
+  },
+  {
+   "title": "Forever Wars",
+   "author": "",
+   "isbn": "9798993749433",
+   "date": "",
+   "url": "https://www.haymarketbooks.org/books/2962-forever-wars"
+  },
+  {
+   "title": "The Veiled Prophet",
+   "author": "",
+   "isbn": "9798888905791",
+   "date": "",
+   "url": "https://www.haymarketbooks.org/books/2770-the-veiled-prophet"
+  },
+  {
+   "title": "Join the Haymarket Book Club to take 50% off all the books on our site!",
+   "author": "",
+   "isbn": "9798888905197",
+   "date": "",
+   "url": "https://www.haymarketbooks.org/bookclub"
+  },
+  {
+   "title": "Femmephilia",
+   "author": "",
+   "isbn": "9798888905975",
+   "date": "",
+   "url": "https://www.haymarketbooks.org/books/2758-femmephilia"
+  },
+  {
+   "title": "Footprints",
+   "author": "",
+   "isbn": "9798888905944",
+   "date": "",
+   "url": "https://www.haymarketbooks.org/books/2773-footprints"
+  },
+  {
+   "title": "When We Are Kin",
+   "author": "",
+   "isbn": "9798888905968",
+   "date": "",
+   "url": "https://www.haymarketbooks.org/books/2735-when-we-are-kin"
+  },
+  {
+   "title": "The Conviction Machine",
+   "author": "",
+   "isbn": "9798888905920",
+   "date": "",
+   "url": "https://www.haymarketbooks.org/books/2733-the-conviction-machine"
+  },
+  {
+   "title": "Black Study",
+   "author": "",
+   "isbn": "9798888908662",
+   "date": "",
+   "url": "https://www.haymarketbooks.org/books/2941-black-study"
+  },
+  {
+   "title": "Revolutionary Forgiveness",
+   "author": "",
+   "isbn": "9798888905982",
+   "date": "",
+   "url": "https://www.haymarketbooks.org/books/2755-revolutionary-forgiveness"
+  },
+  {
+   "title": "Theory of Crisis",
+   "author": "",
+   "isbn": "9781642597905",
+   "date": "",
+   "url": "https://www.haymarketbooks.org/books/1972-theory-of-crisis"
+  },
+  {
+   "title": "Brute Force and Plunder",
+   "author": "",
+   "isbn": "9798993749419",
+   "date": "",
+   "url": "https://www.haymarketbooks.org/books/2940-brute-force-and-plunder"
+  },
+  {
+   "title": "Unions of Our Own",
+   "author": "",
+   "isbn": "9798888905937",
+   "date": "",
+   "url": "https://www.haymarketbooks.org/books/2724-unions-of-our-own"
+  },
+  {
+   "title": "Song for a Hard-Hit People",
+   "author": "",
+   "isbn": "9798888904893",
+   "date": "",
+   "url": "https://www.haymarketbooks.org/books/2622-song-for-a-hard-hit-people"
+  },
+  {
+   "title": "The Extended Universe",
+   "author": "",
+   "isbn": "9798888903667",
+   "date": "",
+   "url": "https://www.haymarketbooks.org/books/2525-the-extended-universe"
+  },
+  {
+   "title": "Revolutions of Our Times",
+   "author": "",
+   "isbn": "9798888905906",
+   "date": "",
+   "url": "https://www.haymarketbooks.org/books/2732-revolutions-of-our-times"
+  },
+  {
+   "title": "Mermaid Theory",
+   "author": "",
+   "isbn": "9798888906521",
+   "date": "",
+   "url": "https://www.haymarketbooks.org/books/2754-mermaid-theory"
+  },
+  {
+   "title": "From the Free Speech Movement to the Factory Floor",
+   "author": "",
+   "isbn": "9798888904664",
+   "date": "",
+   "url": "https://www.haymarketbooks.org/books/2618-from-the-free-speech-movement-to-the-factory-floor"
+  },
+  {
+   "title": "The Young Lords Speak",
+   "author": "",
+   "isbn": "9798888904541",
+   "date": "",
+   "url": "https://www.haymarketbooks.org/books/2601-the-young-lords-speak"
+  },
+  {
+   "title": "Healing Justice & Our Call to Practice",
+   "author": "",
+   "isbn": "9798888908600",
+   "date": "",
+   "url": "https://www.haymarketbooks.org/books/2874-healing-justice-amp-our-call-to-practice"
+  },
+  {
+   "title": "Venezuela in Crisis",
+   "author": "",
+   "isbn": "9798888904640",
+   "date": "",
+   "url": "https://www.haymarketbooks.org/books/2604-venezuela-in-crisis"
+  },
+  {
+   "title": "Negro Liberation",
+   "author": "",
+   "isbn": "9798888904633",
+   "date": "",
+   "url": "https://www.haymarketbooks.org/books/2616-negro-liberation"
+  },
+  {
+   "title": "Engineered Conflict",
+   "author": "",
+   "isbn": "9798888904626",
+   "date": "",
+   "url": "https://www.haymarketbooks.org/books/2600-engineered-conflict"
+  },
+  {
+   "title": "How We Get Free (Updated 2nd Edition)",
+   "author": "",
+   "isbn": "9798888903643",
+   "date": "",
+   "url": "https://www.haymarketbooks.org/books/2521-how-we-get-free-updated-2nd-edition"
+  },
+  {
+   "title": "The Social Basis of the Female Question",
+   "author": "",
+   "isbn": "9798888903780",
+   "date": "",
+   "url": "https://www.haymarketbooks.org/books/2516-the-social-basis-of-the-female-question"
+  },
+  {
+   "title": "Cold War on Five Continents",
+   "author": "",
+   "isbn": "9798888905029",
+   "date": "",
+   "url": "https://www.haymarketbooks.org/books/2631-cold-war-on-five-continents"
+  },
+  {
+   "title": "The Selected Works of Eugene V. Debs Vol. IV",
+   "author": "",
+   "isbn": "9781642595901",
+   "date": "",
+   "url": "https://www.haymarketbooks.org/books/1790-the-selected-works-of-eugene-v-debs-vol-iv"
+  },
+  {
+   "title": "Understanding Capitalism",
+   "author": "",
+   "isbn": "9798888904602",
+   "date": "",
+   "url": "https://www.haymarketbooks.org/books/2614-understanding-capitalism"
+  },
+  {
+   "title": "Understanding Marxism",
+   "author": "",
+   "isbn": "9798888904589",
+   "date": "",
+   "url": "https://www.haymarketbooks.org/books/2612-understanding-marxism"
+  },
+  {
+   "title": "Understanding Socialism",
+   "author": "",
+   "isbn": "9798888904596",
+   "date": "",
+   "url": "https://www.haymarketbooks.org/books/2613-understanding-socialism"
+  },
+  {
+   "title": "The Real Border Crisis",
+   "author": "",
+   "isbn": "9781946511997",
+   "date": "",
+   "url": "https://www.haymarketbooks.org/books/2812-the-real-border-crisis"
+  },
+  {
+   "title": "This Unruly Witness",
+   "author": "",
+   "isbn": "9798888904572",
+   "date": "",
+   "url": "https://www.haymarketbooks.org/books/2611-this-unruly-witness"
+  },
+  {
+   "title": "How to End Family Policing",
+   "author": "",
+   "isbn": "9798888904565",
+   "date": "",
+   "url": "https://www.haymarketbooks.org/books/2609-how-to-end-family-policing"
+  },
+  {
+   "title": "Solidarity with Children",
+   "author": "",
+   "isbn": "9798888904657",
+   "date": "",
+   "url": "https://www.haymarketbooks.org/books/2610-solidarity-with-children"
+  },
+  {
+   "title": "No Neutrals There",
+   "author": "",
+   "isbn": "9798888904558",
+   "date": "",
+   "url": "https://www.haymarketbooks.org/books/2608-no-neutrals-there"
+  },
+  {
+   "title": "We Are Each Other's Liberation",
+   "author": "",
+   "isbn": "9798888903728",
+   "date": "",
+   "url": "https://www.haymarketbooks.org/books/2519-we-are-each-other-s-liberation"
+  },
+  {
+   "title": "The Responsibility of Intellectuals in the Age of Fascism and Genocide",
+   "author": "",
+   "isbn": "9781946511973",
+   "date": "",
+   "url": "https://www.haymarketbooks.org/books/2805-the-responsibility-of-intellectuals-in-the-age-of-fascism-and-genocide"
+  },
+  {
+   "title": "Haymarket Tote Bag",
+   "author": "",
+   "isbn": "9781642592405",
+   "date": "",
+   "url": "https://www.haymarketbooks.org/books/1506-haymarket-tote-bag"
+  },
+  {
+   "title": "After Savagery",
+   "author": "",
+   "isbn": "9798888904503",
+   "date": "",
+   "url": "https://www.haymarketbooks.org/books/2607-after-savagery"
+  },
+  {
+   "title": "What We Do With God",
+   "author": "",
+   "isbn": "9798888903704",
+   "date": "",
+   "url": "https://www.haymarketbooks.org/books/2531-what-we-do-with-god"
+  },
+  {
+   "title": "Displaced in Gaza",
+   "author": "",
+   "isbn": "9798888905203",
+   "date": "",
+   "url": "https://www.haymarketbooks.org/books/2620-displaced-in-gaza"
+  },
+  {
+   "title": "Their End Is Our Beginning",
+   "author": "",
+   "isbn": "9798888903735",
+   "date": "",
+   "url": "https://www.haymarketbooks.org/books/2540-their-end-is-our-beginning"
+  },
+  {
+   "title": "Checks and Balances Won't Save Us Now. What Will?",
+   "author": "",
+   "isbn": "9781946511959",
+   "date": "",
+   "url": "https://www.haymarketbooks.org/books/2720-checks-and-balances-won-t-save-us-now-what-will"
+  },
+  {
+   "title": "It’s Not That Radical",
+   "author": "",
+   "isbn": "9798888904428",
+   "date": "",
+   "url": "https://www.haymarketbooks.org/books/2583-it-s-not-that-radical"
+  },
+  {
+   "title": "Trouble! at Coal Creek",
+   "author": "",
+   "isbn": "9798888903766",
+   "date": "",
+   "url": "https://www.haymarketbooks.org/books/2529-trouble-at-coal-creek"
+  },
+  {
+   "title": "Learning to Live in the Dark",
+   "author": "",
+   "isbn": "9798888903759",
+   "date": "",
+   "url": "https://www.haymarketbooks.org/books/2523-learning-to-live-in-the-dark"
+  },
+  {
+   "title": "Fake Work",
+   "author": "",
+   "isbn": "9798888903674",
+   "date": "",
+   "url": "https://www.haymarketbooks.org/books/2534-fake-work"
+  },
+  {
+   "title": "Diarios de un terrorista",
+   "author": "",
+   "isbn": "9798888905210",
+   "date": "",
+   "url": "https://www.haymarketbooks.org/books/2655-diarios-de-un-terrorista"
+  },
+  {
+   "title": "Florida Water",
+   "author": "",
+   "isbn": "9781642599671",
+   "date": "",
+   "url": "https://www.haymarketbooks.org/books/2099-florida-water"
+  },
+  {
+   "title": "No Cop City, No Cop World",
+   "author": "",
+   "isbn": "9798888903742",
+   "date": "",
+   "url": "https://www.haymarketbooks.org/books/2541-no-cop-city-no-cop-world"
+  },
+  {
+   "title": "Heaven Looks Like Us",
+   "author": "",
+   "isbn": "9798888903650",
+   "date": "",
+   "url": "https://www.haymarketbooks.org/books/2527-heaven-looks-like-us"
+  },
+  {
+   "title": "No Straight Road Takes You There",
+   "author": "",
+   "isbn": "9798888903636",
+   "date": "",
+   "url": "https://www.haymarketbooks.org/books/2517-no-straight-road-takes-you-there"
+  },
+  {
+   "title": "AI Futures",
+   "author": "",
+   "isbn": "9781946511928",
+   "date": "",
+   "url": "https://www.haymarketbooks.org/books/2676-ai-futures"
+  }
+ ]
 }

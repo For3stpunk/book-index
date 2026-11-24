@@ -2,5 +2,118 @@
  "name": "Milkweed Editions",
  "url": "https://milkweed.org/books",
  "checked": "2026-11-24",
- "books": []
+ "books": [
+  {
+   "title": "Exhibit G",
+   "author": "",
+   "isbn": "9781639551989",
+   "date": "",
+   "url": "https://milkweed.org/book/exhibit-g"
+  },
+  {
+   "title": "The Hurting Kind",
+   "author": "",
+   "isbn": "9781639550494",
+   "date": "",
+   "url": "https://milkweed.org/book/the-hurting-kind"
+  },
+  {
+   "title": "Cacophony of Bone",
+   "author": "",
+   "isbn": "9781571311573",
+   "date": "",
+   "url": "https://milkweed.org/book/cacophony-of-bone"
+  },
+  {
+   "title": "The Quickening",
+   "author": "",
+   "isbn": "9781571313966",
+   "date": "",
+   "url": "https://milkweed.org/book/the-quickening"
+  },
+  {
+   "title": "Soil and Spirit",
+   "author": "",
+   "isbn": "9781639550890",
+   "date": "",
+   "url": "https://milkweed.org/book/soil-and-spirit"
+  },
+  {
+   "title": "The Lost Journals of Sacajewea",
+   "author": "",
+   "isbn": "9781639550746",
+   "date": "",
+   "url": "https://milkweed.org/book/the-lost-journals-of-sacajewea"
+  },
+  {
+   "title": "The Eighth Moon",
+   "author": "",
+   "isbn": "9781639550685",
+   "date": "",
+   "url": "https://milkweed.org/book/the-eighth-moon"
+  },
+  {
+   "title": "Losing Music",
+   "author": "",
+   "isbn": "9781639550760",
+   "date": "",
+   "url": "https://milkweed.org/book/losing-music"
+  },
+  {
+   "title": "Daywork",
+   "author": "",
+   "isbn": "9781639550722",
+   "date": "",
+   "url": "https://milkweed.org/book/daywork"
+  },
+  {
+   "title": "A History of Half-Birds",
+   "author": "",
+   "isbn": "9781571315304",
+   "date": "",
+   "url": "https://milkweed.org/book/a-history-of-half-birds"
+  },
+  {
+   "title": "How to Be a Good Savage and Other Poems",
+   "author": "",
+   "isbn": "9781639550203",
+   "date": "",
+   "url": "https://milkweed.org/book/goodsavage"
+  },
+  {
+   "title": "Graceland, At Last",
+   "author": "",
+   "isbn": "9781571311856",
+   "date": "",
+   "url": "https://milkweed.org/book/graceland-at-last"
+  },
+  {
+   "title": "Conversations with Birds",
+   "author": "",
+   "isbn": "9781639550807",
+   "date": "",
+   "url": "https://milkweed.org/book/conversations-with-birds"
+  },
+  {
+   "title": "I Love Information",
+   "author": "",
+   "isbn": "9781639550036",
+   "date": "",
+   "url": "https://milkweed.org/book/i-love-information"
+  },
+  {
+   "title": "Call Up the Waters",
+   "author": "",
+   "isbn": "9781639550449",
+   "date": "",
+   "url": "https://milkweed.org/book/call-up-the-waters"
+  },
+  {
+   "title": "A Darker Wilderness",
+   "author": "",
+   "isbn": "9781571313904",
+   "date": "",
+   "url": "https://milkweed.org/book/a-darker-wilderness"
+  }
+ ]
 }

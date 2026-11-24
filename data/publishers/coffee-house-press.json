@@ -2,5 +2,90 @@
  "name": "Coffee House Press",
  "url": "https://coffeehousepress.org/",
  "checked": "2026-11-24",
- "books": []
+ "books": [
+  {
+   "title": "Cover of \"Our Hours Are Married To Shadow,\" by Nghiem Tran, which features a black background and a vibrant blue spiky plant in the center of the page. ",
+   "author": "",
+   "isbn": "9781566897723",
+   "date": "",
+   "url": "https://coffeehousepress.org/products/our-hours-are-married-to-shadow"
+  },
+  {
+   "title": "Cover of \"The Tallness of Moonlight,\" by Ron Padgett, showing an illustration of a woman sitting on a crescent moon and a little man on a large bullet racing up to her. ",
+   "author": "",
+   "isbn": "9781566897709",
+   "date": "",
+   "url": "https://coffeehousepress.org/products/the-tallness-of-moonlight"
+  },
+  {
+   "title": "Cover of \"Tell Me How It Ends,\" by Valeria Luiselli, which is an off-white background with the title and author name in a bold black font. ",
+   "author": "",
+   "isbn": "9781566894951",
+   "date": "",
+   "url": "https://coffeehousepress.org/products/tell-me-how-it-ends"
+  },
+  {
+   "title": "Book cover featuring a blue sky with clouds and sun above an asphalt parking lot an a sign with its shadow casting onto the sky the title of the book",
+   "author": "",
+   "isbn": "9781566894913",
+   "date": "",
+   "url": "https://coffeehousepress.org/products/mean"
+  },
+  {
+   "title": "Book Cover featuring image of a person in a orange jumpsuit and astronaut helmet leaning onto a silver chrome car in a summer field with the title and author in big bold hot pink text",
+   "author": "",
+   "isbn": "9781566896511",
+   "date": "",
+   "url": "https://coffeehousepress.org/products/alive-at-the-end-of-the-world"
+  },
+  {
+   "title": "Book cover featuring mosaic tiling of differing pastel colors including red, yellow, green, blue, and white, with the title and author in black text in white blocks in the center",
+   "author": "",
+   "isbn": "9781566895477",
+   "date": "",
+   "url": "https://coffeehousepress.org/products/time-is-the-thing-a-body-moves-through"
+  },
+  {
+   "title": "Book cover featuring a drawing of a woman's face looking to the side with a mask being slightly askew on her head with a bright yellow background",
+   "author": "",
+   "isbn": "9781566895668",
+   "date": "",
+   "url": "https://coffeehousepress.org/products/temporary"
+  },
+  {
+   "title": "Book cover featuring bright red background with black geometric shapes in the center and white outlined shapes over the black resembling houses and urban landscape.",
+   "author": "",
+   "isbn": "9781566895514",
+   "date": "",
+   "url": "https://coffeehousepress.org/products/socialist-realism"
+  },
+  {
+   "title": "Book cover featuring gray background with the title written vertically half on the left side and half on the right side of the cover.",
+   "author": "",
+   "isbn": "9781566895798",
+   "date": "",
+   "url": "https://coffeehousepress.org/products/thresholes"
+  },
+  {
+   "title": "Book cover featuring the title and author in big black text in the middle of the cover with fine print text repeating in the background",
+   "author": "",
+   "isbn": "9781566895675",
+   "date": "",
+   "url": "https://coffeehousepress.org/products/social-poetics"
+  },
+  {
+   "title": "Book Cover featuring a light blue background and repeating nature imagery in a zig zag formation with the title and author on top of the imagery in yellow text",
+   "author": "",
+   "isbn": "9781566896634",
+   "date": "",
+   "url": "https://coffeehousepress.org/products/the-nature-book"
+  },
+  {
+   "title": "Book Cover featuring the title in bold white text over a black background being warped in the center to make a spiraling out shape.",
+   "author": "",
+   "isbn": "9781566896399",
+   "date": "",
+   "url": "https://coffeehousepress.org/products/till-the-wheels-fall-off"
+  }
+ ]
 }

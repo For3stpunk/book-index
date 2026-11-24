@@ -2,5 +2,475 @@
  "name": "Chronicle Books",
  "url": "https://www.chroniclebooks.com/collections/new",
  "checked": "2026-11-24",
- "books": []
+ "books": [
+  {
+   "title": "Art + Design",
+   "author": "",
+   "isbn": "9781797240367",
+   "date": "",
+   "url": "https://www.chroniclebooks.com/collections/bestsellers"
+  },
+  {
+   "title": "Art + Design",
+   "author": "",
+   "isbn": "9781797237961",
+   "date": "",
+   "url": "https://www.chroniclebooks.com/collections/bestsellers"
+  },
+  {
+   "title": "Art + Design",
+   "author": "",
+   "isbn": "9781797245959",
+   "date": "",
+   "url": "https://www.chroniclebooks.com/collections/bestsellers"
+  },
+  {
+   "title": "Art + Design",
+   "author": "",
+   "isbn": "9781797243399",
+   "date": "",
+   "url": "https://www.chroniclebooks.com/collections/bestsellers"
+  },
+  {
+   "title": "Art + Design",
+   "author": "",
+   "isbn": "9781797243566",
+   "date": "",
+   "url": "https://www.chroniclebooks.com/collections/bestsellers"
+  },
+  {
+   "title": "Art + Design",
+   "author": "",
+   "isbn": "9781646147328",
+   "date": "",
+   "url": "https://www.chroniclebooks.com/collections/bestsellers"
+  },
+  {
+   "title": "Art + Design",
+   "author": "",
+   "isbn": "9781646147625",
+   "date": "",
+   "url": "https://www.chroniclebooks.com/collections/bestsellers"
+  },
+  {
+   "title": "Art + Design",
+   "author": "",
+   "isbn": "9781646147120",
+   "date": "",
+   "url": "https://www.chroniclebooks.com/collections/bestsellers"
+  },
+  {
+   "title": "Art + Design",
+   "author": "",
+   "isbn": "9781646147083",
+   "date": "",
+   "url": "https://www.chroniclebooks.com/collections/bestsellers"
+  },
+  {
+   "title": "Art + Design",
+   "author": "",
+   "isbn": "9781797244006",
+   "date": "",
+   "url": "https://www.chroniclebooks.com/collections/bestsellers"
+  },
+  {
+   "title": "Art + Design",
+   "author": "",
+   "isbn": "9781797249766",
+   "date": "",
+   "url": "https://www.chroniclebooks.com/collections/bestsellers"
+  },
+  {
+   "title": "Art + Design",
+   "author": "",
+   "isbn": "9781797249810",
+   "date": "",
+   "url": "https://www.chroniclebooks.com/collections/bestsellers"
+  },
+  {
+   "title": "Art + Design",
+   "author": "",
+   "isbn": "9781797249773",
+   "date": "",
+   "url": "https://www.chroniclebooks.com/collections/bestsellers"
+  },
+  {
+   "title": "Art + Design",
+   "author": "",
+   "isbn": "9781797243429",
+   "date": "",
+   "url": "https://www.chroniclebooks.com/collections/bestsellers"
+  },
+  {
+   "title": "Art + Design",
+   "author": "",
+   "isbn": "9781646145683",
+   "date": "",
+   "url": "https://www.chroniclebooks.com/collections/bestsellers"
+  },
+  {
+   "title": "Art + Design",
+   "author": "",
+   "isbn": "9781646146338",
+   "date": "",
+   "url": "https://www.chroniclebooks.com/collections/bestsellers"
+  },
+  {
+   "title": "Art + Design",
+   "author": "",
+   "isbn": "9781797238807",
+   "date": "",
+   "url": "https://www.chroniclebooks.com/collections/bestsellers"
+  },
+  {
+   "title": "Art + Design",
+   "author": "",
+   "isbn": "9781797218656",
+   "date": "",
+   "url": "https://www.chroniclebooks.com/collections/bestsellers"
+  },
+  {
+   "title": "Art + Design",
+   "author": "",
+   "isbn": "9781797246123",
+   "date": "",
+   "url": "https://www.chroniclebooks.com/collections/bestsellers"
+  },
+  {
+   "title": "Art + Design",
+   "author": "",
+   "isbn": "9781797246345",
+   "date": "",
+   "url": "https://www.chroniclebooks.com/collections/bestsellers"
+  },
+  {
+   "title": "Art + Design",
+   "author": "",
+   "isbn": "9781797242590",
+   "date": "",
+   "url": "https://www.chroniclebooks.com/collections/bestsellers"
+  },
+  {
+   "title": "Art + Design",
+   "author": "",
+   "isbn": "9781646146994",
+   "date": "",
+   "url": "https://www.chroniclebooks.com/collections/bestsellers"
+  },
+  {
+   "title": "Art + Design",
+   "author": "",
+   "isbn": "9781797246321",
+   "date": "",
+   "url": "https://www.chroniclebooks.com/collections/bestsellers"
+  },
+  {
+   "title": "Art + Design",
+   "author": "",
+   "isbn": "9781797246314",
+   "date": "",
+   "url": "https://www.chroniclebooks.com/collections/bestsellers"
+  },
+  {
+   "title": "Art + Design",
+   "author": "",
+   "isbn": "9781797231570",
+   "date": "",
+   "url": "https://www.chroniclebooks.com/collections/bestsellers"
+  },
+  {
+   "title": "Art + Design",
+   "author": "",
+   "isbn": "9781797249797",
+   "date": "",
+   "url": "https://www.chroniclebooks.com/collections/bestsellers"
+  },
+  {
+   "title": "Art + Design",
+   "author": "",
+   "isbn": "9781797249780",
+   "date": "",
+   "url": "https://www.chroniclebooks.com/collections/bestsellers"
+  },
+  {
+   "title": "Art + Design",
+   "author": "",
+   "isbn": "9781797235660",
+   "date": "",
+   "url": "https://www.chroniclebooks.com/collections/bestsellers"
+  },
+  {
+   "title": "Art + Design",
+   "author": "",
+   "isbn": "9781797243658",
+   "date": "",
+   "url": "https://www.chroniclebooks.com/collections/bestsellers"
+  },
+  {
+   "title": "Art + Design",
+   "author": "",
+   "isbn": "9781797248752",
+   "date": "",
+   "url": "https://www.chroniclebooks.com/collections/bestsellers"
+  },
+  {
+   "title": "Art + Design",
+   "author": "",
+   "isbn": "9781797234779",
+   "date": "",
+   "url": "https://www.chroniclebooks.com/collections/bestsellers"
+  },
+  {
+   "title": "Art + Design",
+   "author": "",
+   "isbn": "9781797233666",
+   "date": "",
+   "url": "https://www.chroniclebooks.com/collections/bestsellers"
+  },
+  {
+   "title": "Art + Design",
+   "author": "",
+   "isbn": "9781797240145",
+   "date": "",
+   "url": "https://www.chroniclebooks.com/collections/bestsellers"
+  },
+  {
+   "title": "Art + Design",
+   "author": "",
+   "isbn": "9781797238692",
+   "date": "",
+   "url": "https://www.chroniclebooks.com/collections/bestsellers"
+  },
+  {
+   "title": "Art + Design",
+   "author": "",
+   "isbn": "9781797236681",
+   "date": "",
+   "url": "https://www.chroniclebooks.com/collections/bestsellers"
+  },
+  {
+   "title": "Art + Design",
+   "author": "",
+   "isbn": "9781797238173",
+   "date": "",
+   "url": "https://www.chroniclebooks.com/collections/bestsellers"
+  },
+  {
+   "title": "Art + Design",
+   "author": "",
+   "isbn": "9781797238159",
+   "date": "",
+   "url": "https://www.chroniclebooks.com/collections/bestsellers"
+  },
+  {
+   "title": "Art + Design",
+   "author": "",
+   "isbn": "9781797240169",
+   "date": "",
+   "url": "https://www.chroniclebooks.com/collections/bestsellers"
+  },
+  {
+   "title": "Art + Design",
+   "author": "",
+   "isbn": "9781797238081",
+   "date": "",
+   "url": "https://www.chroniclebooks.com/collections/bestsellers"
+  },
+  {
+   "title": "Art + Design",
+   "author": "",
+   "isbn": "9781797243191",
+   "date": "",
+   "url": "https://www.chroniclebooks.com/collections/bestsellers"
+  },
+  {
+   "title": "Art + Design",
+   "author": "",
+   "isbn": "9781797243207",
+   "date": "",
+   "url": "https://www.chroniclebooks.com/collections/bestsellers"
+  },
+  {
+   "title": "Art + Design",
+   "author": "",
+   "isbn": "9781797243221",
+   "date": "",
+   "url": "https://www.chroniclebooks.com/collections/bestsellers"
+  },
+  {
+   "title": "Art + Design",
+   "author": "",
+   "isbn": "9781797238814",
+   "date": "",
+   "url": "https://www.chroniclebooks.com/collections/bestsellers"
+  },
+  {
+   "title": "Art + Design",
+   "author": "",
+   "isbn": "9781797240008",
+   "date": "",
+   "url": "https://www.chroniclebooks.com/collections/bestsellers"
+  },
+  {
+   "title": "Art + Design",
+   "author": "",
+   "isbn": "9781797239965",
+   "date": "",
+   "url": "https://www.chroniclebooks.com/collections/bestsellers"
+  },
+  {
+   "title": "Art + Design",
+   "author": "",
+   "isbn": "9781797248776",
+   "date": "",
+   "url": "https://www.chroniclebooks.com/collections/bestsellers"
+  },
+  {
+   "title": "Art + Design",
+   "author": "",
+   "isbn": "9781797216331",
+   "date": "",
+   "url": "https://www.chroniclebooks.com/collections/bestsellers"
+  },
+  {
+   "title": "Art + Design",
+   "author": "",
+   "isbn": "9781797235622",
+   "date": "",
+   "url": "https://www.chroniclebooks.com/collections/bestsellers"
+  },
+  {
+   "title": "Art + Design",
+   "author": "",
+   "isbn": "9781797240114",
+   "date": "",
+   "url": "https://www.chroniclebooks.com/collections/bestsellers"
+  },
+  {
+   "title": "Art + Design",
+   "author": "",
+   "isbn": "9781797245874",
+   "date": "",
+   "url": "https://www.chroniclebooks.com/collections/bestsellers"
+  },
+  {
+   "title": "Art + Design",
+   "author": "",
+   "isbn": "9781797238272",
+   "date": "",
+   "url": "https://www.chroniclebooks.com/collections/art-design"
+  },
+  {
+   "title": "Art + Design",
+   "author": "",
+   "isbn": "9781797239880",
+   "date": "",
+   "url": "https://www.chroniclebooks.com/collections/art-design"
+  },
+  {
+   "title": "Shop All Bestsellers",
+   "author": "",
+   "isbn": "9781452179612",
+   "date": "",
+   "url": "https://www.chroniclebooks.com/collections/bestsellers"
+  },
+  {
+   "title": "Shop All Bestsellers",
+   "author": "",
+   "isbn": "9781797232768",
+   "date": "",
+   "url": "https://www.chroniclebooks.com/collections/bestsellers"
+  },
+  {
+   "title": "Shop All Bestsellers",
+   "author": "",
+   "isbn": "9781452169323",
+   "date": "",
+   "url": "https://www.chroniclebooks.com/collections/bestsellers"
+  },
+  {
+   "title": "Series",
+   "author": "",
+   "isbn": "9781797227801",
+   "date": "",
+   "url": "https://www.chroniclebooks.com/collections/new"
+  },
+  {
+   "title": "Series",
+   "author": "",
+   "isbn": "9781797234342",
+   "date": "",
+   "url": "https://www.chroniclebooks.com/collections/new"
+  },
+  {
+   "title": "Series",
+   "author": "",
+   "isbn": "9781797237077",
+   "date": "",
+   "url": "https://www.chroniclebooks.com/collections/new"
+  },
+  {
+   "title": "Series",
+   "author": "",
+   "isbn": "9781797235646",
+   "date": "",
+   "url": "https://www.chroniclebooks.com/collections/new"
+  },
+  {
+   "title": "Shop All",
+   "author": "",
+   "isbn": "9781797237381",
+   "date": "",
+   "url": "https://www.chroniclebooks.com/collections/kids-teens"
+  },
+  {
+   "title": "Shop All",
+   "author": "",
+   "isbn": "9781797233857",
+   "date": "",
+   "url": "https://www.chroniclebooks.com/collections/kids-teens"
+  },
+  {
+   "title": "Shop All",
+   "author": "",
+   "isbn": "9781452182575",
+   "date": "",
+   "url": "https://www.chroniclebooks.com/collections/kids-teens"
+  },
+  {
+   "title": "Cards + Stationery",
+   "author": "",
+   "isbn": "9781452144955",
+   "date": "",
+   "url": "https://www.chroniclebooks.com/collections/cards-stationery"
+  },
+  {
+   "title": "Cards + Stationery",
+   "author": "",
+   "isbn": "9781797244129",
+   "date": "",
+   "url": "https://www.chroniclebooks.com/collections/cards-stationery"
+  },
+  {
+   "title": "Cards + Stationery",
+   "author": "",
+   "isbn": "9781452125374",
+   "date": "",
+   "url": "https://www.chroniclebooks.com/collections/cards-stationery"
+  },
+  {
+   "title": "Shop Gift Everyone Differently",
+   "author": "",
+   "isbn": "9781797224732",
+   "date": "",
+   "url": "https://www.chroniclebooks.com/pages/gift-things-differently"
+  },
+  {
+   "title": "Shop Gift Everyone Differently",
+   "author": "",
+   "isbn": "9781797239392",
+   "date": "",
+   "url": "https://www.chroniclebooks.com/pages/gift-things-differently"
+  }
+ ]
 }

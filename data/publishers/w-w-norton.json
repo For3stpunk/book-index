@@ -2,5 +2,433 @@
  "name": "W. W. Norton",
  "url": "https://wwnorton.com/",
  "checked": "2026-11-24",
- "books": []
+ "books": [
+  {
+   "title": "Home",
+   "author": "",
+   "isbn": "9781324131656",
+   "date": "",
+   "url": "https://wwnorton.com/reader"
+  },
+  {
+   "title": "Home",
+   "author": "",
+   "isbn": "9781324139577",
+   "date": "",
+   "url": "https://wwnorton.com/reader"
+  },
+  {
+   "title": "Home",
+   "author": "",
+   "isbn": "9781324097310",
+   "date": "",
+   "url": "https://wwnorton.com/reader"
+  },
+  {
+   "title": "Home",
+   "author": "",
+   "isbn": "9781324125969",
+   "date": "",
+   "url": "https://wwnorton.com/reader"
+  },
+  {
+   "title": "Home",
+   "author": "",
+   "isbn": "9781324111818",
+   "date": "",
+   "url": "https://wwnorton.com/reader"
+  },
+  {
+   "title": "Home",
+   "author": "",
+   "isbn": "9781324030805",
+   "date": "",
+   "url": "https://wwnorton.com/reader"
+  },
+  {
+   "title": "Home",
+   "author": "",
+   "isbn": "9781324123637",
+   "date": "",
+   "url": "https://wwnorton.com/reader"
+  },
+  {
+   "title": "Home",
+   "author": "",
+   "isbn": "9781324136002",
+   "date": "",
+   "url": "https://wwnorton.com/reader"
+  },
+  {
+   "title": "Home",
+   "author": "",
+   "isbn": "9781324098836",
+   "date": "",
+   "url": "https://wwnorton.com/reader"
+  },
+  {
+   "title": "Home",
+   "author": "",
+   "isbn": "9781324082859",
+   "date": "",
+   "url": "https://wwnorton.com/reader"
+  },
+  {
+   "title": "Home",
+   "author": "",
+   "isbn": "9781324111542",
+   "date": "",
+   "url": "https://wwnorton.com/reader"
+  },
+  {
+   "title": "Home",
+   "author": "",
+   "isbn": "9781324030294",
+   "date": "",
+   "url": "https://wwnorton.com/reader"
+  },
+  {
+   "title": "Home",
+   "author": "",
+   "isbn": "9781324050704",
+   "date": "",
+   "url": "https://wwnorton.com/reader"
+  },
+  {
+   "title": "Home",
+   "author": "",
+   "isbn": "9781324138204",
+   "date": "",
+   "url": "https://wwnorton.com/reader"
+  },
+  {
+   "title": "Home",
+   "author": "",
+   "isbn": "9781324098362",
+   "date": "",
+   "url": "https://wwnorton.com/reader"
+  },
+  {
+   "title": "Home",
+   "author": "",
+   "isbn": "9781324125105",
+   "date": "",
+   "url": "https://wwnorton.com/reader"
+  },
+  {
+   "title": "Home",
+   "author": "",
+   "isbn": "9781324112181",
+   "date": "",
+   "url": "https://wwnorton.com/reader"
+  },
+  {
+   "title": "Home",
+   "author": "",
+   "isbn": "9781324082453",
+   "date": "",
+   "url": "https://wwnorton.com/reader"
+  },
+  {
+   "title": "Home",
+   "author": "",
+   "isbn": "9781324130529",
+   "date": "",
+   "url": "https://wwnorton.com/reader"
+  },
+  {
+   "title": "Home",
+   "author": "",
+   "isbn": "9781324036159",
+   "date": "",
+   "url": "https://wwnorton.com/reader"
+  },
+  {
+   "title": "Home",
+   "author": "",
+   "isbn": "9781324110613",
+   "date": "",
+   "url": "https://wwnorton.com/reader"
+  },
+  {
+   "title": "Home",
+   "author": "",
+   "isbn": "9780393319620",
+   "date": "",
+   "url": "https://wwnorton.com/reader"
+  },
+  {
+   "title": "Home",
+   "author": "",
+   "isbn": "9780393358520",
+   "date": "",
+   "url": "https://wwnorton.com/reader"
+  },
+  {
+   "title": "Home",
+   "author": "",
+   "isbn": "9780393337761",
+   "date": "",
+   "url": "https://wwnorton.com/reader"
+  },
+  {
+   "title": "Home",
+   "author": "",
+   "isbn": "9781324110507",
+   "date": "",
+   "url": "https://wwnorton.com/reader"
+  },
+  {
+   "title": "Home",
+   "author": "",
+   "isbn": "9781324078975",
+   "date": "",
+   "url": "https://wwnorton.com/reader"
+  },
+  {
+   "title": "Home",
+   "author": "",
+   "isbn": "9781324130765",
+   "date": "",
+   "url": "https://wwnorton.com/reader"
+  },
+  {
+   "title": "Home",
+   "author": "",
+   "isbn": "9781324021841",
+   "date": "",
+   "url": "https://wwnorton.com/reader"
+  },
+  {
+   "title": "Home",
+   "author": "",
+   "isbn": "9781324124542",
+   "date": "",
+   "url": "https://wwnorton.com/reader"
+  },
+  {
+   "title": "Home",
+   "author": "",
+   "isbn": "9781324074441",
+   "date": "",
+   "url": "https://wwnorton.com/reader"
+  },
+  {
+   "title": "Home",
+   "author": "",
+   "isbn": "9780393351156",
+   "date": "",
+   "url": "https://wwnorton.com/reader"
+  },
+  {
+   "title": "Home",
+   "author": "",
+   "isbn": "9781324130581",
+   "date": "",
+   "url": "https://wwnorton.com/reader"
+  },
+  {
+   "title": "Home",
+   "author": "",
+   "isbn": "9780393354768",
+   "date": "",
+   "url": "https://wwnorton.com/reader"
+  },
+  {
+   "title": "Home",
+   "author": "",
+   "isbn": "9781324021803",
+   "date": "",
+   "url": "https://wwnorton.com/reader"
+  },
+  {
+   "title": "Home",
+   "author": "",
+   "isbn": "9781631496080",
+   "date": "",
+   "url": "https://wwnorton.com/reader"
+  },
+  {
+   "title": "Home",
+   "author": "",
+   "isbn": "9781631497551",
+   "date": "",
+   "url": "https://wwnorton.com/reader"
+  },
+  {
+   "title": "Home",
+   "author": "",
+   "isbn": "9781324098072",
+   "date": "",
+   "url": "https://wwnorton.com/reader"
+  },
+  {
+   "title": "Home",
+   "author": "",
+   "isbn": "9781324097976",
+   "date": "",
+   "url": "https://wwnorton.com/reader"
+  },
+  {
+   "title": "Home",
+   "author": "",
+   "isbn": "9781324096887",
+   "date": "",
+   "url": "https://wwnorton.com/reader"
+  },
+  {
+   "title": "Home",
+   "author": "",
+   "isbn": "9781631493713",
+   "date": "",
+   "url": "https://wwnorton.com/reader"
+  },
+  {
+   "title": "Home",
+   "author": "",
+   "isbn": "9781324094104",
+   "date": "",
+   "url": "https://wwnorton.com/reader"
+  },
+  {
+   "title": "Home",
+   "author": "",
+   "isbn": "9781324092346",
+   "date": "",
+   "url": "https://wwnorton.com/reader"
+  },
+  {
+   "title": "Home",
+   "author": "",
+   "isbn": "9781324054108",
+   "date": "",
+   "url": "https://wwnorton.com/reader"
+  },
+  {
+   "title": "Home",
+   "author": "",
+   "isbn": "9781324015543",
+   "date": "",
+   "url": "https://wwnorton.com/reader"
+  },
+  {
+   "title": "Home",
+   "author": "",
+   "isbn": "9781682682999",
+   "date": "",
+   "url": "https://wwnorton.com/reader"
+  },
+  {
+   "title": "Home",
+   "author": "",
+   "isbn": "9780393868494",
+   "date": "",
+   "url": "https://wwnorton.com/reader"
+  },
+  {
+   "title": "Home",
+   "author": "",
+   "isbn": "9780393338690",
+   "date": "",
+   "url": "https://wwnorton.com/reader"
+  },
+  {
+   "title": "Home",
+   "author": "",
+   "isbn": "9780393330472",
+   "date": "",
+   "url": "https://wwnorton.com/reader"
+  },
+  {
+   "title": "Home",
+   "author": "",
+   "isbn": "9780393324815",
+   "date": "",
+   "url": "https://wwnorton.com/reader"
+  },
+  {
+   "title": "Home",
+   "author": "",
+   "isbn": "9780393338829",
+   "date": "",
+   "url": "https://wwnorton.com/reader"
+  },
+  {
+   "title": "Home",
+   "author": "",
+   "isbn": "9781324105817",
+   "date": "",
+   "url": "https://wwnorton.com/reader"
+  },
+  {
+   "title": "Home",
+   "author": "",
+   "isbn": "9780393337013",
+   "date": "",
+   "url": "https://wwnorton.com/reader"
+  },
+  {
+   "title": "Home",
+   "author": "",
+   "isbn": "9780393347333",
+   "date": "",
+   "url": "https://wwnorton.com/reader"
+  },
+  {
+   "title": "Home",
+   "author": "",
+   "isbn": "9780393341799",
+   "date": "",
+   "url": "https://wwnorton.com/reader"
+  },
+  {
+   "title": "Home",
+   "author": "",
+   "isbn": "9780393541588",
+   "date": "",
+   "url": "https://wwnorton.com/reader"
+  },
+  {
+   "title": "Home",
+   "author": "",
+   "isbn": "9781324020509",
+   "date": "",
+   "url": "https://wwnorton.com/reader"
+  },
+  {
+   "title": "Home",
+   "author": "",
+   "isbn": "9781324021544",
+   "date": "",
+   "url": "https://wwnorton.com/reader"
+  },
+  {
+   "title": "Home",
+   "author": "",
+   "isbn": "9780393333640",
+   "date": "",
+   "url": "https://wwnorton.com/reader"
+  },
+  {
+   "title": "Home",
+   "author": "",
+   "isbn": "9781324035435",
+   "date": "",
+   "url": "https://wwnorton.com/reader"
+  },
+  {
+   "title": "Home",
+   "author": "",
+   "isbn": "9780393868302",
+   "date": "",
+   "url": "https://wwnorton.com/reader"
+  },
+  {
+   "title": "Home",
+   "author": "",
+   "isbn": "9781324116929",
+   "date": "",
+   "url": "https://wwnorton.com/reader"
+  }
+ ]
 }

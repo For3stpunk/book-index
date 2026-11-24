@@ -2,5 +2,69 @@
  "name": "Grove Atlantic",
  "url": "https://groveatlantic.com/books/",
  "checked": "2026-11-24",
- "books": []
+ "books": [
+  {
+   "title": "MAMista",
+   "author": "",
+   "isbn": "9780802166074",
+   "date": "",
+   "url": "https://groveatlantic.com/book/mamista/"
+  },
+  {
+   "title": "The Baker",
+   "author": "",
+   "isbn": "9780802169945",
+   "date": "",
+   "url": "https://groveatlantic.com/book/the-baker/"
+  },
+  {
+   "title": "The Storms to Come",
+   "author": "",
+   "isbn": "9780802166685",
+   "date": "",
+   "url": "https://groveatlantic.com/book/the-storms-to-come/"
+  },
+  {
+   "title": "This Is My Idea of Fun",
+   "author": "",
+   "isbn": "9780802169327",
+   "date": "",
+   "url": "https://groveatlantic.com/book/this-is-my-idea-of-fun/"
+  },
+  {
+   "title": "Scorpio Rising",
+   "author": "",
+   "isbn": "9780802166746",
+   "date": "",
+   "url": "https://groveatlantic.com/book/scorpio-rising/"
+  },
+  {
+   "title": "The Beautiful Burn",
+   "author": "",
+   "isbn": "9780802168849",
+   "date": "",
+   "url": "https://groveatlantic.com/book/the-beautiful-burn/"
+  },
+  {
+   "title": "Snowlines",
+   "author": "",
+   "isbn": "9780802168955",
+   "date": "",
+   "url": "https://groveatlantic.com/book/snowlines/"
+  },
+  {
+   "title": "Esther, the Butcher",
+   "author": "",
+   "isbn": "9780802169242",
+   "date": "",
+   "url": "https://groveatlantic.com/book/esther-the-butcher/"
+  },
+  {
+   "title": "Fabrications",
+   "author": "",
+   "isbn": "9780802168665",
+   "date": "",
+   "url": "https://groveatlantic.com/book/fabrications/"
+  }
+ ]
 }

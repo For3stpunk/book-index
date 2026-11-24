@@ -2,5 +2,83 @@
  "name": "Two Dollar Radio",
  "url": "https://twodollarradio.com/collections/forthcoming",
  "checked": "2026-11-24",
- "books": []
+ "books": [
+  {
+   "title": "Coming March 2027",
+   "author": "",
+   "isbn": "9781953387318",
+   "date": "",
+   "url": "https://twodollarradio.com/collections/forthcoming/products/distortion"
+  },
+  {
+   "title": "Coming March 2027",
+   "author": "",
+   "isbn": "9781953387707",
+   "date": "",
+   "url": "https://twodollarradio.com/collections/forthcoming/products/distortion"
+  },
+  {
+   "title": "Coming March 2027",
+   "author": "",
+   "isbn": "9781953387714",
+   "date": "",
+   "url": "https://twodollarradio.com/collections/forthcoming/products/distortion"
+  },
+  {
+   "title": "*Lambda Literary Award Winner",
+   "author": "",
+   "isbn": "9781953387677",
+   "date": "",
+   "url": "https://twodollarradio.com/cdn/shop/files/Correspondence-Artist_2b616071-2ffc-4784-a90e-f8bee1966d63_2048x2048.jpg?v=1778618085"
+  },
+  {
+   "title": "*Lambda Literary Award Winner",
+   "author": "",
+   "isbn": "9781953387684",
+   "date": "",
+   "url": "https://twodollarradio.com/cdn/shop/files/Correspondence-Artist_2b616071-2ffc-4784-a90e-f8bee1966d63_2048x2048.jpg?v=1778618085"
+  },
+  {
+   "title": "*Lambda Literary Award Winner",
+   "author": "",
+   "isbn": "9780982015193",
+   "date": "",
+   "url": "https://twodollarradio.com/cdn/shop/files/Correspondence-Artist_2b616071-2ffc-4784-a90e-f8bee1966d63_2048x2048.jpg?v=1778618085"
+  },
+  {
+   "title": "*Lambda Literary Award Winner",
+   "author": "",
+   "isbn": "9780983247128",
+   "date": "",
+   "url": "https://twodollarradio.com/cdn/shop/files/Correspondence-Artist_2b616071-2ffc-4784-a90e-f8bee1966d63_2048x2048.jpg?v=1778618085"
+  },
+  {
+   "title": "A Best Book of 2023",
+   "author": "",
+   "isbn": "9781953387387",
+   "date": "",
+   "url": "https://twodollarradio.com/collections/forthcoming/products/landscapes"
+  },
+  {
+   "title": "A Best Book of 2023",
+   "author": "",
+   "isbn": "9780679723424",
+   "date": "",
+   "url": "https://twodollarradio.com/collections/forthcoming/products/landscapes"
+  },
+  {
+   "title": "A Best Book of 2023",
+   "author": "",
+   "isbn": "9781953387769",
+   "date": "",
+   "url": "https://twodollarradio.com/collections/forthcoming/products/landscapes"
+  },
+  {
+   "title": "A Best Book of 2023",
+   "author": "",
+   "isbn": "9781953387394",
+   "date": "",
+   "url": "https://twodollarradio.com/collections/forthcoming/products/landscapes"
+  }
+ ]
 }

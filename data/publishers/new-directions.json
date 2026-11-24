@@ -2,5 +2,797 @@
  "name": "New Directions",
  "url": "https://www.ndbooks.com/books/",
  "checked": "2026-11-24",
- "books": []
+ "books": [
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811238793",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811237345",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811240857",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811240833",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811241359",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811240796",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811241380",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811239530",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811232197",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811241410",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811239424",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811241243",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811240086",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811241779",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811241731",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811241816",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811241533",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811241755",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811240406",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811241717",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811241793",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811241007",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811240277",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811240871",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811240383",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811240888",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811240581",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811240437",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811230254",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811230575",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811224475",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811238601",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811239493",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811240543",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811240567",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811232364",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811240451",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811240499",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811240369",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811240284",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811239707",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811231251",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811216548",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811229937",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811228855",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811228930",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811229036",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811228725",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811228787",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811228480",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811228428",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811228213",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811227414",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811228176",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811226059",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811227933",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811227629",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811226127",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811227506",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811224192",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811225946",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811226936",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811225984",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811226899",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811225786",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811226158",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811226141",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811226202",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811225823",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811225595",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811225502",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811225526",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811223638",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811223225",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811220293",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811223041",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811221504",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811221757",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811220309",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811220354",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811219907",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811219921",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811220897",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811218917",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811219266",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811218351",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811218573",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811218221",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811218702",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811217422",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811217293",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811216715",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811218047",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811217248",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811216722",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811216876",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811216999",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811216944",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811216029",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811216012",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811215817",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811215695",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811217613",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811214049",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811214063",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811213264",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811213028",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811212984",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811204811",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811200325",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811200820",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811201209",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  },
+  {
+   "title": "Search Icon",
+   "author": "",
+   "isbn": "9780811200684",
+   "date": "2026-12-08",
+   "url": "https://www.ndbooks.com/books/"
+  }
+ ]
 }

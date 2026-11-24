@@ -2,5 +2,601 @@
  "name": "HarperCollins",
  "url": "https://www.harpercollins.com/collections/coming-soon",
  "checked": "2026-11-24",
- "books": []
+ "books": [
+  {
+   "title": "The Toast of the Town Hardcover $19.99 $16.00 Add",
+   "author": "",
+   "isbn": "9780063590250",
+   "date": "",
+   "url": "https://www.harpercollins.com/products/the-toast-of-the-town-jory-john"
+  },
+  {
+   "title": "Book Meets World Hardcover $29.99 Add",
+   "author": "",
+   "isbn": "9780369785381",
+   "date": "",
+   "url": "https://www.harpercollins.com/products/book-meets-world-danielle-fishelrider-strongwill-friedle"
+  },
+  {
+   "title": "The Game (Deluxe Limited Edition) Hardcover $32.00 Add",
+   "author": "",
+   "isbn": "9780778306122",
+   "date": "",
+   "url": "https://www.harpercollins.com/products/the-game-deluxe-limited-edition-sadie-kincaid"
+  },
+  {
+   "title": "The Sixth Faction Deluxe Limited Edition Hardcover $25.99 $20.80 Add",
+   "author": "",
+   "isbn": "9780063462540",
+   "date": "",
+   "url": "https://www.harpercollins.com/products/the-sixth-faction-deluxe-limited-edition-veronica-roth"
+  },
+  {
+   "title": "Uniting the States Hardcover $32.00 $25.60 Add",
+   "author": "",
+   "isbn": "9780063490031",
+   "date": "",
+   "url": "https://www.harpercollins.com/products/uniting-the-states-brian-kilmeade"
+  },
+  {
+   "title": "Ethel Kennedy Hardcover $36.00 $28.80 Add",
+   "author": "",
+   "isbn": "9780063454958",
+   "date": "",
+   "url": "https://www.harpercollins.com/products/ethel-kennedy-kerry-kennedy"
+  },
+  {
+   "title": "Out of the Shadows Hardcover $32.00 $25.60 Add",
+   "author": "",
+   "isbn": "9780063384538",
+   "date": "",
+   "url": "https://www.harpercollins.com/products/out-of-the-shadows-jay-stratton"
+  },
+  {
+   "title": "Cart (0\r\n            items)",
+   "author": "",
+   "isbn": "9780063492929",
+   "date": "",
+   "url": "https://www.harpercollins.com/"
+  },
+  {
+   "title": "Cart (0\r\n            items)",
+   "author": "",
+   "isbn": "9780063248557",
+   "date": "",
+   "url": "https://www.harpercollins.com/"
+  },
+  {
+   "title": "Cart (0\r\n            items)",
+   "author": "",
+   "isbn": "9781335010247",
+   "date": "",
+   "url": "https://www.harpercollins.com/"
+  },
+  {
+   "title": "Cart (0\r\n            items)",
+   "author": "",
+   "isbn": "9780063307988",
+   "date": "",
+   "url": "https://www.harpercollins.com/"
+  },
+  {
+   "title": "Cart (0\r\n            items)",
+   "author": "",
+   "isbn": "9780063344624",
+   "date": "",
+   "url": "https://www.harpercollins.com/"
+  },
+  {
+   "title": "Cart (0\r\n            items)",
+   "author": "",
+   "isbn": "9780778332473",
+   "date": "",
+   "url": "https://www.harpercollins.com/"
+  },
+  {
+   "title": "Cart (0\r\n            items)",
+   "author": "",
+   "isbn": "9780063304895",
+   "date": "",
+   "url": "https://www.harpercollins.com/"
+  },
+  {
+   "title": "Cart (0\r\n            items)",
+   "author": "",
+   "isbn": "9780063516441",
+   "date": "",
+   "url": "https://www.harpercollins.com/"
+  },
+  {
+   "title": "Cart (0\r\n            items)",
+   "author": "",
+   "isbn": "9780062908551",
+   "date": "",
+   "url": "https://www.harpercollins.com/"
+  },
+  {
+   "title": "Cart (0\r\n            items)",
+   "author": "",
+   "isbn": "9780063580886",
+   "date": "",
+   "url": "https://www.harpercollins.com/"
+  },
+  {
+   "title": "Cart (0\r\n            items)",
+   "author": "",
+   "isbn": "9780063462625",
+   "date": "",
+   "url": "https://www.harpercollins.com/"
+  },
+  {
+   "title": "Cart (0\r\n            items)",
+   "author": "",
+   "isbn": "9780063462762",
+   "date": "",
+   "url": "https://www.harpercollins.com/"
+  },
+  {
+   "title": "Cart (0\r\n            items)",
+   "author": "",
+   "isbn": "9780063572386",
+   "date": "",
+   "url": "https://www.harpercollins.com/"
+  },
+  {
+   "title": "Cart (0\r\n            items)",
+   "author": "",
+   "isbn": "9780063342323",
+   "date": "",
+   "url": "https://www.harpercollins.com/"
+  },
+  {
+   "title": "Cart (0\r\n            items)",
+   "author": "",
+   "isbn": "9780063584877",
+   "date": "",
+   "url": "https://www.harpercollins.com/"
+  },
+  {
+   "title": "Cart (0\r\n            items)",
+   "author": "",
+   "isbn": "9780063482036",
+   "date": "",
+   "url": "https://www.harpercollins.com/"
+  },
+  {
+   "title": "Cart (0\r\n            items)",
+   "author": "",
+   "isbn": "9780063483507",
+   "date": "",
+   "url": "https://www.harpercollins.com/"
+  },
+  {
+   "title": "Cart (0\r\n            items)",
+   "author": "",
+   "isbn": "9780063458864",
+   "date": "",
+   "url": "https://www.harpercollins.com/"
+  },
+  {
+   "title": "Cart (0\r\n            items)",
+   "author": "",
+   "isbn": "9780063464032",
+   "date": "",
+   "url": "https://www.harpercollins.com/"
+  },
+  {
+   "title": "Cart (0\r\n            items)",
+   "author": "",
+   "isbn": "9780063517127",
+   "date": "",
+   "url": "https://www.harpercollins.com/"
+  },
+  {
+   "title": "Cart (0\r\n            items)",
+   "author": "",
+   "isbn": "9780063476707",
+   "date": "",
+   "url": "https://www.harpercollins.com/"
+  },
+  {
+   "title": "Cart (0\r\n            items)",
+   "author": "",
+   "isbn": "9780063476585",
+   "date": "",
+   "url": "https://www.harpercollins.com/"
+  },
+  {
+   "title": "Cart (0\r\n            items)",
+   "author": "",
+   "isbn": "9780063579934",
+   "date": "",
+   "url": "https://www.harpercollins.com/"
+  },
+  {
+   "title": "Cart (0\r\n            items)",
+   "author": "",
+   "isbn": "9780063579910",
+   "date": "",
+   "url": "https://www.harpercollins.com/"
+  },
+  {
+   "title": "Cart (0\r\n            items)",
+   "author": "",
+   "isbn": "9780063472211",
+   "date": "",
+   "url": "https://www.harpercollins.com/"
+  },
+  {
+   "title": "Cart (0\r\n            items)",
+   "author": "",
+   "isbn": "9780060875275",
+   "date": "",
+   "url": "https://www.harpercollins.com/"
+  },
+  {
+   "title": "Cart (0\r\n            items)",
+   "author": "",
+   "isbn": "9780063380325",
+   "date": "",
+   "url": "https://www.harpercollins.com/"
+  },
+  {
+   "title": "Cart (0\r\n            items)",
+   "author": "",
+   "isbn": "9780063511200",
+   "date": "",
+   "url": "https://www.harpercollins.com/"
+  },
+  {
+   "title": "Cart (0\r\n            items)",
+   "author": "",
+   "isbn": "9780063288225",
+   "date": "",
+   "url": "https://www.harpercollins.com/"
+  },
+  {
+   "title": "Cart (0\r\n            items)",
+   "author": "",
+   "isbn": "9780062908537",
+   "date": "",
+   "url": "https://www.harpercollins.com/"
+  },
+  {
+   "title": "Cart (0\r\n            items)",
+   "author": "",
+   "isbn": "9780063580879",
+   "date": "",
+   "url": "https://www.harpercollins.com/"
+  },
+  {
+   "title": "Cart (0\r\n            items)",
+   "author": "",
+   "isbn": "9780063462649",
+   "date": "",
+   "url": "https://www.harpercollins.com/"
+  },
+  {
+   "title": "Cart (0\r\n            items)",
+   "author": "",
+   "isbn": "9780063572362",
+   "date": "",
+   "url": "https://www.harpercollins.com/"
+  },
+  {
+   "title": "Cart (0\r\n            items)",
+   "author": "",
+   "isbn": "9780063342309",
+   "date": "",
+   "url": "https://www.harpercollins.com/"
+  },
+  {
+   "title": "Cart (0\r\n            items)",
+   "author": "",
+   "isbn": "9780063482005",
+   "date": "",
+   "url": "https://www.harpercollins.com/"
+  },
+  {
+   "title": "Cart (0\r\n            items)",
+   "author": "",
+   "isbn": "9780063483491",
+   "date": "",
+   "url": "https://www.harpercollins.com/"
+  },
+  {
+   "title": "Cart (0\r\n            items)",
+   "author": "",
+   "isbn": "9780063458918",
+   "date": "",
+   "url": "https://www.harpercollins.com/"
+  },
+  {
+   "title": "Cart (0\r\n            items)",
+   "author": "",
+   "isbn": "9780063476608",
+   "date": "",
+   "url": "https://www.harpercollins.com/"
+  },
+  {
+   "title": "Cart (0\r\n            items)",
+   "author": "",
+   "isbn": "9780063472235",
+   "date": "",
+   "url": "https://www.harpercollins.com/"
+  },
+  {
+   "title": "Cart (0\r\n            items)",
+   "author": "",
+   "isbn": "9780063288171",
+   "date": "",
+   "url": "https://www.harpercollins.com/"
+  },
+  {
+   "title": "Cart (0\r\n            items)",
+   "author": "",
+   "isbn": "9780063492905",
+   "date": "",
+   "url": "https://www.harpercollins.com/"
+  },
+  {
+   "title": "Cart (0\r\n            items)",
+   "author": "",
+   "isbn": "9780063458031",
+   "date": "",
+   "url": "https://www.harpercollins.com/"
+  },
+  {
+   "title": "Cart (0\r\n            items)",
+   "author": "",
+   "isbn": "9780369787033",
+   "date": "",
+   "url": "https://www.harpercollins.com/"
+  },
+  {
+   "title": "Cart (0\r\n            items)",
+   "author": "",
+   "isbn": "9781488244544",
+   "date": "",
+   "url": "https://www.harpercollins.com/"
+  },
+  {
+   "title": "Cart (0\r\n            items)",
+   "author": "",
+   "isbn": "9780063308008",
+   "date": "",
+   "url": "https://www.harpercollins.com/"
+  },
+  {
+   "title": "Cart (0\r\n            items)",
+   "author": "",
+   "isbn": "9780063344655",
+   "date": "",
+   "url": "https://www.harpercollins.com/"
+  },
+  {
+   "title": "Cart (0\r\n            items)",
+   "author": "",
+   "isbn": "9780778306825",
+   "date": "",
+   "url": "https://www.harpercollins.com/"
+  },
+  {
+   "title": "Cart (0\r\n            items)",
+   "author": "",
+   "isbn": "9780369775863",
+   "date": "",
+   "url": "https://www.harpercollins.com/"
+  },
+  {
+   "title": "Cart (0\r\n            items)",
+   "author": "",
+   "isbn": "9781488239410",
+   "date": "",
+   "url": "https://www.harpercollins.com/"
+  },
+  {
+   "title": "Cart (0\r\n            items)",
+   "author": "",
+   "isbn": "9780063304963",
+   "date": "",
+   "url": "https://www.harpercollins.com/"
+  },
+  {
+   "title": "Cart (0\r\n            items)",
+   "author": "",
+   "isbn": "9780063304918",
+   "date": "",
+   "url": "https://www.harpercollins.com/"
+  },
+  {
+   "title": "Cart (0\r\n            items)",
+   "author": "",
+   "isbn": "9780063516571",
+   "date": "",
+   "url": "https://www.harpercollins.com/"
+  },
+  {
+   "title": "Cart (0\r\n            items)",
+   "author": "",
+   "isbn": "9780063569713",
+   "date": "",
+   "url": "https://www.harpercollins.com/"
+  },
+  {
+   "title": "Cart (0\r\n            items)",
+   "author": "",
+   "isbn": "9780063578098",
+   "date": "",
+   "url": "https://www.harpercollins.com/"
+  },
+  {
+   "title": "Cart (0\r\n            items)",
+   "author": "",
+   "isbn": "9780063580893",
+   "date": "",
+   "url": "https://www.harpercollins.com/"
+  },
+  {
+   "title": "Cart (0\r\n            items)",
+   "author": "",
+   "isbn": "9780063462632",
+   "date": "",
+   "url": "https://www.harpercollins.com/"
+  },
+  {
+   "title": "Cart (0\r\n            items)",
+   "author": "",
+   "isbn": "9780063585980",
+   "date": "",
+   "url": "https://www.harpercollins.com/"
+  },
+  {
+   "title": "Cart (0\r\n            items)",
+   "author": "",
+   "isbn": "9780063572393",
+   "date": "",
+   "url": "https://www.harpercollins.com/"
+  },
+  {
+   "title": "Cart (0\r\n            items)",
+   "author": "",
+   "isbn": "9780063585768",
+   "date": "",
+   "url": "https://www.harpercollins.com/"
+  },
+  {
+   "title": "Cart (0\r\n            items)",
+   "author": "",
+   "isbn": "9780063482043",
+   "date": "",
+   "url": "https://www.harpercollins.com/"
+  },
+  {
+   "title": "Cart (0\r\n            items)",
+   "author": "",
+   "isbn": "9780063581951",
+   "date": "",
+   "url": "https://www.harpercollins.com/"
+  },
+  {
+   "title": "Cart (0\r\n            items)",
+   "author": "",
+   "isbn": "9780063483514",
+   "date": "",
+   "url": "https://www.harpercollins.com/"
+  },
+  {
+   "title": "Cart (0\r\n            items)",
+   "author": "",
+   "isbn": "9780063709249",
+   "date": "",
+   "url": "https://www.harpercollins.com/"
+  },
+  {
+   "title": "Cart (0\r\n            items)",
+   "author": "",
+   "isbn": "9780063458857",
+   "date": "",
+   "url": "https://www.harpercollins.com/"
+  },
+  {
+   "title": "Cart (0\r\n            items)",
+   "author": "",
+   "isbn": "9780063464056",
+   "date": "",
+   "url": "https://www.harpercollins.com/"
+  },
+  {
+   "title": "Cart (0\r\n            items)",
+   "author": "",
+   "isbn": "9780063464063",
+   "date": "",
+   "url": "https://www.harpercollins.com/"
+  },
+  {
+   "title": "Cart (0\r\n            items)",
+   "author": "",
+   "isbn": "9780063572843",
+   "date": "",
+   "url": "https://www.harpercollins.com/"
+  },
+  {
+   "title": "Cart (0\r\n            items)",
+   "author": "",
+   "isbn": "9780063476578",
+   "date": "",
+   "url": "https://www.harpercollins.com/"
+  },
+  {
+   "title": "Cart (0\r\n            items)",
+   "author": "",
+   "isbn": "9780063579941",
+   "date": "",
+   "url": "https://www.harpercollins.com/"
+  },
+  {
+   "title": "Cart (0\r\n            items)",
+   "author": "",
+   "isbn": "9780063472204",
+   "date": "",
+   "url": "https://www.harpercollins.com/"
+  },
+  {
+   "title": "Cart (0\r\n            items)",
+   "author": "",
+   "isbn": "9780063701861",
+   "date": "",
+   "url": "https://www.harpercollins.com/"
+  },
+  {
+   "title": "Cart (0\r\n            items)",
+   "author": "",
+   "isbn": "9780063380332",
+   "date": "",
+   "url": "https://www.harpercollins.com/"
+  },
+  {
+   "title": "Cart (0\r\n            items)",
+   "author": "",
+   "isbn": "9780063497740",
+   "date": "",
+   "url": "https://www.harpercollins.com/"
+  },
+  {
+   "title": "Cart (0\r\n            items)",
+   "author": "",
+   "isbn": "9780063317888",
+   "date": "",
+   "url": "https://www.harpercollins.com/"
+  },
+  {
+   "title": "Cart (0\r\n            items)",
+   "author": "",
+   "isbn": "9780060262785",
+   "date": "",
+   "url": "https://www.harpercollins.com/"
+  },
+  {
+   "title": "Cart (0\r\n            items)",
+   "author": "",
+   "isbn": "9780063221123",
+   "date": "",
+   "url": "https://www.harpercollins.com/"
+  },
+  {
+   "title": "Cart (0\r\n            items)",
+   "author": "",
+   "isbn": "9780063317871",
+   "date": "",
+   "url": "https://www.harpercollins.com/"
+  },
+  {
+   "title": "Cart (0\r\n            items)",
+   "author": "",
+   "isbn": "9780358467809",
+   "date": "",
+   "url": "https://www.harpercollins.com/"
+  }
+ ]
 }

@@ -2,5 +2,76 @@
  "name": "Seven Stories Press",
  "url": "https://www.sevenstories.com/",
  "checked": "2026-11-24",
- "books": []
+ "books": [
+  {
+   "title": "FIRE SEASON SELECTED ESSAYS, 1984–2021",
+   "author": "",
+   "isbn": "9781644211625",
+   "date": "",
+   "url": "https://www.sevenstories.com/books/4382-fire-season"
+  },
+  {
+   "title": "YOU KNOW, SEX Bodies, Gender, Puberty and Other Things! BY CORY SILVERBERG AND FIONA SMYTH",
+   "author": "",
+   "isbn": "9781644210802",
+   "date": "",
+   "url": "https://www.sevenstories.com/books/4384-you-know-sex"
+  },
+  {
+   "title": "The Rediscovery of America for Young People",
+   "author": "",
+   "isbn": "9781644215708",
+   "date": "",
+   "url": "https://www.sevenstories.com/books/4835-the-rediscovery-of-america-for-young-people"
+  },
+  {
+   "title": "Shelter is Necessary for Existence",
+   "author": "",
+   "isbn": "9781953387592",
+   "date": "",
+   "url": "https://www.sevenstories.com/books/4861-shelter-is-necessary-for-existence"
+  },
+  {
+   "title": "Notes of a Radical Son",
+   "author": "",
+   "isbn": "9781644214916",
+   "date": "",
+   "url": "https://www.sevenstories.com/books/4910-notes-of-a-radical-son"
+  },
+  {
+   "title": "Breaking ICE",
+   "author": "",
+   "isbn": "9781644216095",
+   "date": "",
+   "url": "https://www.sevenstories.com/books/4889-breaking-ice"
+  },
+  {
+   "title": "Acid Green Velvet",
+   "author": "",
+   "isbn": "9781953387653",
+   "date": "",
+   "url": "https://www.sevenstories.com/books/4851-acid-green-velvet"
+  },
+  {
+   "title": "Rupay",
+   "author": "",
+   "isbn": "9781644215388",
+   "date": "",
+   "url": "https://www.sevenstories.com/books/4785-rupay"
+  },
+  {
+   "title": "The Dinner Party",
+   "author": "",
+   "isbn": "9781644215487",
+   "date": "",
+   "url": "https://www.sevenstories.com/books/4817-the-dinner-party"
+  },
+  {
+   "title": "Before the Flood",
+   "author": "",
+   "isbn": "9781644215289",
+   "date": "",
+   "url": "https://www.sevenstories.com/books/4779-before-the-flood"
+  }
+ ]
 }
