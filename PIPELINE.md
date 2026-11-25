@@ -18,7 +18,7 @@ Two scheduled tasks drive this. Each starts a fresh session, so everything it ne
 
 ## Monthly master, step by step
 
-1. **Sync the registry.** Read the Publishers and Authors tabs; write `sources/publishers.csv` and `sources/authors.csv` (rows with Include ticked); commit and push.
+1. **Sync the registry.** Read the Publishers, Publisher directory and Authors tabs; write `sources/publishers.csv` (Include-ticked rows from Publishers, plus Include-ticked rows from Publisher directory with their Website as `releases_page`; run `collect.py discover` once for new ones to find a better listing page) and `sources/authors.csv`; commit and push. The Publisher directory tab is the publishersarchive.com directory (re-crawl with the `publishersarchive directory` workflow; it resumes and only fetches ids it hasn't seen).
 2. **Cloud collection.** Dispatch the workflow with `what=all` (REST: `gh api -X POST repos/For3stpunk/book-index/actions/workflows/collect.yml/dispatches -f ref=main -f 'inputs[what]=all'`), wait for it, `git pull`. Write `data/publishers/_report.json` results back to the Sheet's Last checked / Notes columns.
 3. **Edelweiss (needs the user's Chrome, signed in).** In an edelweiss.plus tab:
    - Catalog list: on Catalogs → Newly Added → All Publishers with the time frame "In Last Year", `window.items` holds every catalog id. Set the time frame back to "In Last 3 Months" afterwards.
